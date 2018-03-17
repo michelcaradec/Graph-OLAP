@@ -1,0 +1,2113 @@
+Region	Country	Year	Month	Product	Category	Sales	Units
+North America	USA	2016	1	Piano	Strings	4251.00	693
+North America	USA	2016	1	Violin	Strings	2789.00	571
+North America	USA	2016	1	Cello	Strings	3908.00	311
+North America	USA	2016	1	Guitar	Strings	5034.00	284
+North America	USA	2016	1	Flute	Winds	2130.00	580
+North America	USA	2016	1	Oboe	Winds	6124.00	331
+North America	USA	2016	1	Clarinet	Winds	5764.00	603
+North America	USA	2016	1	Trumpet	Brass	3307.00	442
+North America	USA	2016	1	Trombone	Brass	5686.00	273
+North America	USA	2016	1	Tuba	Brass	5088.00	473
+North America	USA	2016	1	Sax	Winds	4066.00	594
+North America	Canada	2016	1	Piano	Strings	6619.00	284
+North America	Canada	2016	1	Violin	Strings	2882.00	631
+North America	Canada	2016	1	Cello	Strings	6335.00	251
+North America	Canada	2016	1	Guitar	Strings	3688.00	572
+North America	Canada	2016	1	Flute	Winds	3850.00	395
+North America	Canada	2016	1	Oboe	Winds	3630.00	431
+North America	Canada	2016	1	Clarinet	Winds	4094.00	645
+North America	Canada	2016	1	Trumpet	Brass	2710.00	363
+North America	Canada	2016	1	Trombone	Brass	2707.00	214
+North America	Canada	2016	1	Tuba	Brass	2300.00	612
+North America	Canada	2016	1	Sax	Winds	2676.00	612
+Europe	France	2016	1	Piano	Strings	4913.00	582
+Europe	France	2016	1	Violin	Strings	2227.00	279
+Europe	France	2016	1	Cello	Strings	5212.00	529
+Europe	France	2016	1	Guitar	Strings	3968.00	337
+Europe	France	2016	1	Flute	Winds	2282.00	384
+Europe	France	2016	1	Oboe	Winds	5274.00	481
+Europe	France	2016	1	Clarinet	Winds	3140.00	699
+Europe	France	2016	1	Trumpet	Brass	4934.00	481
+Europe	France	2016	1	Trombone	Brass	2505.00	213
+Europe	France	2016	1	Tuba	Brass	6038.00	314
+Europe	France	2016	1	Sax	Winds	3811.00	553
+Europe	Germany	2016	1	Piano	Strings	5118.00	428
+Europe	Germany	2016	1	Violin	Strings	6474.00	551
+Europe	Germany	2016	1	Cello	Strings	2540.00	620
+Europe	Germany	2016	1	Guitar	Strings	4405.00	689
+Europe	Germany	2016	1	Flute	Winds	4142.00	545
+Europe	Germany	2016	1	Oboe	Winds	5782.00	670
+Europe	Germany	2016	1	Clarinet	Winds	4128.00	346
+Europe	Germany	2016	1	Trumpet	Brass	4056.00	615
+Europe	Germany	2016	1	Trombone	Brass	4206.00	419
+Europe	Germany	2016	1	Tuba	Brass	5226.00	381
+Europe	Germany	2016	1	Sax	Winds	3979.00	289
+Europe	UK	2016	1	Piano	Strings	6350.00	506
+Europe	UK	2016	1	Violin	Strings	2587.00	619
+Europe	UK	2016	1	Cello	Strings	5308.00	283
+Europe	UK	2016	1	Guitar	Strings	6596.00	347
+Europe	UK	2016	1	Flute	Winds	6826.00	451
+Europe	UK	2016	1	Oboe	Winds	4141.00	437
+Europe	UK	2016	1	Clarinet	Winds	4731.00	516
+Europe	UK	2016	1	Trumpet	Brass	5313.00	270
+Europe	UK	2016	1	Trombone	Brass	5477.00	200
+Europe	UK	2016	1	Tuba	Brass	3803.00	644
+Europe	UK	2016	1	Sax	Winds	2902.00	508
+Europe	Spain	2016	1	Piano	Strings	4790.00	411
+Europe	Spain	2016	1	Violin	Strings	4249.00	422
+Europe	Spain	2016	1	Cello	Strings	4084.00	234
+Europe	Spain	2016	1	Guitar	Strings	2430.00	225
+Europe	Spain	2016	1	Flute	Winds	3515.00	472
+Europe	Spain	2016	1	Oboe	Winds	4541.00	445
+Europe	Spain	2016	1	Clarinet	Winds	2575.00	682
+Europe	Spain	2016	1	Trumpet	Brass	6628.00	423
+Europe	Spain	2016	1	Trombone	Brass	6306.00	259
+Europe	Spain	2016	1	Tuba	Brass	4704.00	514
+Europe	Spain	2016	1	Sax	Winds	4444.00	687
+Africa	Egypt	2016	1	Piano	Strings	2013.00	399
+Africa	Egypt	2016	1	Violin	Strings	6808.00	428
+Africa	Egypt	2016	1	Cello	Strings	2545.00	538
+Africa	Egypt	2016	1	Guitar	Strings	4939.00	425
+Africa	Egypt	2016	1	Flute	Winds	5804.00	236
+Africa	Egypt	2016	1	Oboe	Winds	4993.00	237
+Africa	Egypt	2016	1	Clarinet	Winds	2821.00	339
+Africa	Egypt	2016	1	Trumpet	Brass	6883.00	298
+Africa	Egypt	2016	1	Trombone	Brass	3423.00	557
+Africa	Egypt	2016	1	Tuba	Brass	4664.00	296
+Africa	Egypt	2016	1	Sax	Winds	4744.00	404
+Africa	Morocco	2016	1	Piano	Strings	3180.00	685
+Africa	Morocco	2016	1	Violin	Strings	5996.00	274
+Africa	Morocco	2016	1	Cello	Strings	5949.00	316
+Africa	Morocco	2016	1	Guitar	Strings	4479.00	633
+Africa	Morocco	2016	1	Flute	Winds	4310.00	693
+Africa	Morocco	2016	1	Oboe	Winds	2851.00	340
+Africa	Morocco	2016	1	Clarinet	Winds	2806.00	360
+Africa	Morocco	2016	1	Trumpet	Brass	2642.00	592
+Africa	Morocco	2016	1	Trombone	Brass	5832.00	404
+Africa	Morocco	2016	1	Tuba	Brass	4020.00	494
+Africa	Morocco	2016	1	Sax	Winds	5521.00	592
+Asia	Japan	2016	1	Piano	Strings	6806.00	258
+Asia	Japan	2016	1	Violin	Strings	5885.00	626
+Asia	Japan	2016	1	Cello	Strings	2738.00	517
+Asia	Japan	2016	1	Guitar	Strings	3207.00	527
+Asia	Japan	2016	1	Flute	Winds	3993.00	275
+Asia	Japan	2016	1	Oboe	Winds	2682.00	644
+Asia	Japan	2016	1	Clarinet	Winds	2943.00	476
+Asia	Japan	2016	1	Trumpet	Brass	6306.00	284
+Asia	Japan	2016	1	Trombone	Brass	3180.00	200
+Asia	Japan	2016	1	Tuba	Brass	2018.00	472
+Asia	Japan	2016	1	Sax	Winds	6776.00	480
+Asia	China	2016	1	Piano	Strings	4089.00	332
+Asia	China	2016	1	Violin	Strings	2799.00	253
+Asia	China	2016	1	Cello	Strings	4764.00	596
+Asia	China	2016	1	Guitar	Strings	2081.00	425
+Asia	China	2016	1	Flute	Winds	2153.00	240
+Asia	China	2016	1	Oboe	Winds	3232.00	569
+Asia	China	2016	1	Clarinet	Winds	4370.00	233
+Asia	China	2016	1	Trumpet	Brass	4906.00	246
+Asia	China	2016	1	Trombone	Brass	4925.00	431
+Asia	China	2016	1	Tuba	Brass	4316.00	448
+Asia	China	2016	1	Sax	Winds	4363.00	574
+Asia	India	2016	1	Piano	Strings	2001.00	670
+Asia	India	2016	1	Violin	Strings	3159.00	429
+Asia	India	2016	1	Cello	Strings	2840.00	603
+Asia	India	2016	1	Guitar	Strings	5850.00	538
+Asia	India	2016	1	Flute	Winds	3320.00	459
+Asia	India	2016	1	Oboe	Winds	6437.00	608
+Asia	India	2016	1	Clarinet	Winds	5047.00	411
+Asia	India	2016	1	Trumpet	Brass	5015.00	518
+Asia	India	2016	1	Trombone	Brass	4519.00	667
+Asia	India	2016	1	Tuba	Brass	5671.00	447
+Asia	India	2016	1	Sax	Winds	4133.00	663
+Asia	Thailand	2016	1	Piano	Strings	5620.00	637
+Asia	Thailand	2016	1	Violin	Strings	4458.00	386
+Asia	Thailand	2016	1	Cello	Strings	5599.00	273
+Asia	Thailand	2016	1	Guitar	Strings	2746.00	315
+Asia	Thailand	2016	1	Flute	Winds	6505.00	492
+Asia	Thailand	2016	1	Oboe	Winds	2701.00	496
+Asia	Thailand	2016	1	Clarinet	Winds	2288.00	515
+Asia	Thailand	2016	1	Trumpet	Brass	5489.00	235
+Asia	Thailand	2016	1	Trombone	Brass	4088.00	407
+Asia	Thailand	2016	1	Tuba	Brass	2013.00	419
+Asia	Thailand	2016	1	Sax	Winds	5632.00	456
+Europe	Italy	2016	1	Piano	Strings	6417.00	458
+Europe	Italy	2016	1	Violin	Strings	4867.00	685
+Europe	Italy	2016	1	Cello	Strings	5863.00	362
+Europe	Italy	2016	1	Guitar	Strings	6856.00	479
+Europe	Italy	2016	1	Flute	Winds	6539.00	431
+Europe	Italy	2016	1	Oboe	Winds	2916.00	351
+Europe	Italy	2016	1	Clarinet	Winds	5925.00	575
+Europe	Italy	2016	1	Trumpet	Brass	6010.00	318
+Europe	Italy	2016	1	Trombone	Brass	6315.00	265
+Europe	Italy	2016	1	Tuba	Brass	2388.00	411
+Europe	Italy	2016	1	Sax	Winds	4573.00	595
+South America	Mexico	2016	1	Piano	Strings	4474.00	309
+South America	Mexico	2016	1	Violin	Strings	3160.00	486
+South America	Mexico	2016	1	Cello	Strings	5013.00	596
+South America	Mexico	2016	1	Guitar	Strings	2387.00	499
+South America	Mexico	2016	1	Flute	Winds	2456.00	641
+South America	Mexico	2016	1	Oboe	Winds	3941.00	284
+South America	Mexico	2016	1	Clarinet	Winds	2602.00	611
+South America	Mexico	2016	1	Trumpet	Brass	5647.00	651
+South America	Mexico	2016	1	Trombone	Brass	6490.00	602
+South America	Mexico	2016	1	Tuba	Brass	2481.00	262
+South America	Mexico	2016	1	Sax	Winds	4540.00	392
+South America	Brazil	2016	1	Piano	Strings	3839.00	456
+South America	Brazil	2016	1	Violin	Strings	6941.00	333
+South America	Brazil	2016	1	Cello	Strings	2052.00	689
+South America	Brazil	2016	1	Guitar	Strings	5294.00	349
+South America	Brazil	2016	1	Flute	Winds	2151.00	608
+South America	Brazil	2016	1	Oboe	Winds	5500.00	577
+South America	Brazil	2016	1	Clarinet	Winds	2882.00	246
+South America	Brazil	2016	1	Trumpet	Brass	6906.00	619
+South America	Brazil	2016	1	Trombone	Brass	3973.00	340
+South America	Brazil	2016	1	Tuba	Brass	2689.00	427
+South America	Brazil	2016	1	Sax	Winds	4650.00	279
+South America	Argentina	2016	1	Piano	Strings	6499.00	314
+South America	Argentina	2016	1	Violin	Strings	3400.00	673
+South America	Argentina	2016	1	Cello	Strings	5353.00	580
+South America	Argentina	2016	1	Guitar	Strings	3991.00	549
+South America	Argentina	2016	1	Flute	Winds	3772.00	276
+South America	Argentina	2016	1	Oboe	Winds	2730.00	669
+South America	Argentina	2016	1	Clarinet	Winds	4171.00	583
+South America	Argentina	2016	1	Trumpet	Brass	6990.00	478
+South America	Argentina	2016	1	Trombone	Brass	3503.00	321
+South America	Argentina	2016	1	Tuba	Brass	4963.00	676
+South America	Argentina	2016	1	Sax	Winds	6147.00	583
+North America	USA	2016	2	Piano	Strings	6687.00	406
+North America	USA	2016	2	Violin	Strings	3048.00	492
+North America	USA	2016	2	Cello	Strings	6303.00	584
+North America	USA	2016	2	Guitar	Strings	2112.00	582
+North America	USA	2016	2	Flute	Winds	5575.00	335
+North America	USA	2016	2	Oboe	Winds	4841.00	309
+North America	USA	2016	2	Clarinet	Winds	3655.00	571
+North America	USA	2016	2	Trumpet	Brass	4228.00	681
+North America	USA	2016	2	Trombone	Brass	3099.00	680
+North America	USA	2016	2	Tuba	Brass	3894.00	518
+North America	USA	2016	2	Sax	Winds	2131.00	353
+North America	Canada	2016	2	Piano	Strings	3483.00	333
+North America	Canada	2016	2	Violin	Strings	3159.00	523
+North America	Canada	2016	2	Cello	Strings	5298.00	342
+North America	Canada	2016	2	Guitar	Strings	2543.00	438
+North America	Canada	2016	2	Flute	Winds	2195.00	594
+North America	Canada	2016	2	Oboe	Winds	6607.00	357
+North America	Canada	2016	2	Clarinet	Winds	6721.00	231
+North America	Canada	2016	2	Trumpet	Brass	3907.00	370
+North America	Canada	2016	2	Trombone	Brass	6507.00	370
+North America	Canada	2016	2	Tuba	Brass	3747.00	341
+North America	Canada	2016	2	Sax	Winds	5909.00	610
+Europe	France	2016	2	Piano	Strings	5942.00	483
+Europe	France	2016	2	Violin	Strings	3895.00	668
+Europe	France	2016	2	Cello	Strings	6838.00	548
+Europe	France	2016	2	Guitar	Strings	3188.00	633
+Europe	France	2016	2	Flute	Winds	6572.00	651
+Europe	France	2016	2	Oboe	Winds	5657.00	350
+Europe	France	2016	2	Clarinet	Winds	2592.00	214
+Europe	France	2016	2	Trumpet	Brass	3959.00	428
+Europe	France	2016	2	Trombone	Brass	4420.00	536
+Europe	France	2016	2	Tuba	Brass	4425.00	375
+Europe	France	2016	2	Sax	Winds	4672.00	489
+Europe	Germany	2016	2	Piano	Strings	6205.00	351
+Europe	Germany	2016	2	Violin	Strings	6317.00	339
+Europe	Germany	2016	2	Cello	Strings	6656.00	556
+Europe	Germany	2016	2	Guitar	Strings	6197.00	689
+Europe	Germany	2016	2	Flute	Winds	2984.00	235
+Europe	Germany	2016	2	Oboe	Winds	4793.00	552
+Europe	Germany	2016	2	Clarinet	Winds	5135.00	309
+Europe	Germany	2016	2	Trumpet	Brass	2238.00	542
+Europe	Germany	2016	2	Trombone	Brass	4933.00	638
+Europe	Germany	2016	2	Tuba	Brass	5584.00	202
+Europe	Germany	2016	2	Sax	Winds	6476.00	398
+Europe	UK	2016	2	Piano	Strings	2318.00	441
+Europe	UK	2016	2	Violin	Strings	2768.00	595
+Europe	UK	2016	2	Cello	Strings	5127.00	610
+Europe	UK	2016	2	Guitar	Strings	3620.00	692
+Europe	UK	2016	2	Flute	Winds	2915.00	693
+Europe	UK	2016	2	Oboe	Winds	4783.00	369
+Europe	UK	2016	2	Clarinet	Winds	3064.00	632
+Europe	UK	2016	2	Trumpet	Brass	3339.00	408
+Europe	UK	2016	2	Trombone	Brass	4958.00	269
+Europe	UK	2016	2	Tuba	Brass	4347.00	698
+Europe	UK	2016	2	Sax	Winds	4739.00	416
+Europe	Spain	2016	2	Piano	Strings	3730.00	368
+Europe	Spain	2016	2	Violin	Strings	6331.00	554
+Europe	Spain	2016	2	Cello	Strings	2413.00	547
+Europe	Spain	2016	2	Guitar	Strings	3699.00	648
+Europe	Spain	2016	2	Flute	Winds	6719.00	244
+Europe	Spain	2016	2	Oboe	Winds	4370.00	596
+Europe	Spain	2016	2	Clarinet	Winds	5006.00	358
+Europe	Spain	2016	2	Trumpet	Brass	4195.00	301
+Europe	Spain	2016	2	Trombone	Brass	5561.00	310
+Europe	Spain	2016	2	Tuba	Brass	3365.00	360
+Europe	Spain	2016	2	Sax	Winds	5734.00	299
+Africa	Egypt	2016	2	Piano	Strings	3680.00	390
+Africa	Egypt	2016	2	Violin	Strings	2338.00	690
+Africa	Egypt	2016	2	Cello	Strings	2059.00	472
+Africa	Egypt	2016	2	Guitar	Strings	3280.00	515
+Africa	Egypt	2016	2	Flute	Winds	5311.00	218
+Africa	Egypt	2016	2	Oboe	Winds	5461.00	612
+Africa	Egypt	2016	2	Clarinet	Winds	6147.00	473
+Africa	Egypt	2016	2	Trumpet	Brass	3907.00	377
+Africa	Egypt	2016	2	Trombone	Brass	5448.00	628
+Africa	Egypt	2016	2	Tuba	Brass	2168.00	653
+Africa	Egypt	2016	2	Sax	Winds	5779.00	569
+Africa	Morocco	2016	2	Piano	Strings	3955.00	233
+Africa	Morocco	2016	2	Violin	Strings	6154.00	249
+Africa	Morocco	2016	2	Cello	Strings	6028.00	495
+Africa	Morocco	2016	2	Guitar	Strings	3056.00	380
+Africa	Morocco	2016	2	Flute	Winds	2341.00	658
+Africa	Morocco	2016	2	Oboe	Winds	2695.00	253
+Africa	Morocco	2016	2	Clarinet	Winds	4433.00	668
+Africa	Morocco	2016	2	Trumpet	Brass	4533.00	688
+Africa	Morocco	2016	2	Trombone	Brass	3064.00	202
+Africa	Morocco	2016	2	Tuba	Brass	6041.00	598
+Africa	Morocco	2016	2	Sax	Winds	6109.00	305
+Asia	Japan	2016	2	Piano	Strings	3719.00	691
+Asia	Japan	2016	2	Violin	Strings	2697.00	643
+Asia	Japan	2016	2	Cello	Strings	5363.00	283
+Asia	Japan	2016	2	Guitar	Strings	3605.00	391
+Asia	Japan	2016	2	Flute	Winds	3576.00	251
+Asia	Japan	2016	2	Oboe	Winds	2894.00	236
+Asia	Japan	2016	2	Clarinet	Winds	5537.00	596
+Asia	Japan	2016	2	Trumpet	Brass	5802.00	513
+Asia	Japan	2016	2	Trombone	Brass	4017.00	643
+Asia	Japan	2016	2	Tuba	Brass	2885.00	461
+Asia	Japan	2016	2	Sax	Winds	4642.00	361
+Asia	China	2016	2	Piano	Strings	5407.00	607
+Asia	China	2016	2	Violin	Strings	4410.00	307
+Asia	China	2016	2	Cello	Strings	6980.00	274
+Asia	China	2016	2	Guitar	Strings	6459.00	696
+Asia	China	2016	2	Flute	Winds	6456.00	214
+Asia	China	2016	2	Oboe	Winds	6077.00	598
+Asia	China	2016	2	Clarinet	Winds	2065.00	361
+Asia	China	2016	2	Trumpet	Brass	2974.00	255
+Asia	China	2016	2	Trombone	Brass	6811.00	223
+Asia	China	2016	2	Tuba	Brass	4792.00	531
+Asia	China	2016	2	Sax	Winds	5107.00	382
+Asia	India	2016	2	Piano	Strings	6874.00	481
+Asia	India	2016	2	Violin	Strings	5666.00	629
+Asia	India	2016	2	Cello	Strings	3280.00	541
+Asia	India	2016	2	Guitar	Strings	5647.00	223
+Asia	India	2016	2	Flute	Winds	4050.00	356
+Asia	India	2016	2	Oboe	Winds	6040.00	273
+Asia	India	2016	2	Clarinet	Winds	3723.00	222
+Asia	India	2016	2	Trumpet	Brass	3309.00	248
+Asia	India	2016	2	Trombone	Brass	6097.00	653
+Asia	India	2016	2	Tuba	Brass	2282.00	603
+Asia	India	2016	2	Sax	Winds	5253.00	584
+Asia	Thailand	2016	2	Piano	Strings	5292.00	547
+Asia	Thailand	2016	2	Violin	Strings	2813.00	683
+Asia	Thailand	2016	2	Cello	Strings	2567.00	415
+Asia	Thailand	2016	2	Guitar	Strings	6458.00	302
+Asia	Thailand	2016	2	Flute	Winds	3873.00	686
+Asia	Thailand	2016	2	Oboe	Winds	4696.00	545
+Asia	Thailand	2016	2	Clarinet	Winds	6400.00	609
+Asia	Thailand	2016	2	Trumpet	Brass	2876.00	464
+Asia	Thailand	2016	2	Trombone	Brass	3909.00	460
+Asia	Thailand	2016	2	Tuba	Brass	5452.00	378
+Asia	Thailand	2016	2	Sax	Winds	2114.00	433
+Europe	Italy	2016	2	Piano	Strings	4501.00	321
+Europe	Italy	2016	2	Violin	Strings	5333.00	638
+Europe	Italy	2016	2	Cello	Strings	4487.00	610
+Europe	Italy	2016	2	Guitar	Strings	4369.00	240
+Europe	Italy	2016	2	Flute	Winds	3278.00	541
+Europe	Italy	2016	2	Oboe	Winds	5658.00	215
+Europe	Italy	2016	2	Clarinet	Winds	4410.00	209
+Europe	Italy	2016	2	Trumpet	Brass	6654.00	233
+Europe	Italy	2016	2	Trombone	Brass	5606.00	453
+Europe	Italy	2016	2	Tuba	Brass	2474.00	666
+Europe	Italy	2016	2	Sax	Winds	3536.00	429
+South America	Mexico	2016	2	Piano	Strings	3786.00	218
+South America	Mexico	2016	2	Violin	Strings	4837.00	302
+South America	Mexico	2016	2	Cello	Strings	5950.00	688
+South America	Mexico	2016	2	Guitar	Strings	3379.00	567
+South America	Mexico	2016	2	Flute	Winds	4410.00	350
+South America	Mexico	2016	2	Oboe	Winds	3776.00	497
+South America	Mexico	2016	2	Clarinet	Winds	6332.00	460
+South America	Mexico	2016	2	Trumpet	Brass	6159.00	207
+South America	Mexico	2016	2	Trombone	Brass	3499.00	389
+South America	Mexico	2016	2	Tuba	Brass	2183.00	359
+South America	Mexico	2016	2	Sax	Winds	6446.00	382
+South America	Brazil	2016	2	Piano	Strings	2298.00	472
+South America	Brazil	2016	2	Violin	Strings	4854.00	442
+South America	Brazil	2016	2	Cello	Strings	4267.00	375
+South America	Brazil	2016	2	Guitar	Strings	4192.00	335
+South America	Brazil	2016	2	Flute	Winds	2923.00	274
+South America	Brazil	2016	2	Oboe	Winds	3605.00	223
+South America	Brazil	2016	2	Clarinet	Winds	6194.00	447
+South America	Brazil	2016	2	Trumpet	Brass	5054.00	423
+South America	Brazil	2016	2	Trombone	Brass	2361.00	565
+South America	Brazil	2016	2	Tuba	Brass	3709.00	292
+South America	Brazil	2016	2	Sax	Winds	3581.00	638
+South America	Argentina	2016	2	Piano	Strings	4589.00	230
+South America	Argentina	2016	2	Violin	Strings	5645.00	585
+South America	Argentina	2016	2	Cello	Strings	5452.00	315
+South America	Argentina	2016	2	Guitar	Strings	3999.00	428
+South America	Argentina	2016	2	Flute	Winds	5935.00	564
+South America	Argentina	2016	2	Oboe	Winds	6008.00	614
+South America	Argentina	2016	2	Clarinet	Winds	2948.00	308
+South America	Argentina	2016	2	Trumpet	Brass	4472.00	459
+South America	Argentina	2016	2	Trombone	Brass	2308.00	210
+South America	Argentina	2016	2	Tuba	Brass	2390.00	220
+South America	Argentina	2016	2	Sax	Winds	6638.00	388
+North America	USA	2016	3	Piano	Strings	3977.00	289
+North America	USA	2016	3	Violin	Strings	4500.00	680
+North America	USA	2016	3	Cello	Strings	6931.00	512
+North America	USA	2016	3	Guitar	Strings	5792.00	524
+North America	USA	2016	3	Flute	Winds	5945.00	637
+North America	USA	2016	3	Oboe	Winds	3384.00	463
+North America	USA	2016	3	Clarinet	Winds	2475.00	385
+North America	USA	2016	3	Trumpet	Brass	6010.00	286
+North America	USA	2016	3	Trombone	Brass	5757.00	640
+North America	USA	2016	3	Tuba	Brass	2409.00	275
+North America	USA	2016	3	Sax	Winds	5070.00	275
+North America	Canada	2016	3	Piano	Strings	6716.00	597
+North America	Canada	2016	3	Violin	Strings	3252.00	596
+North America	Canada	2016	3	Cello	Strings	5103.00	306
+North America	Canada	2016	3	Guitar	Strings	6467.00	408
+North America	Canada	2016	3	Flute	Winds	3666.00	480
+North America	Canada	2016	3	Oboe	Winds	5219.00	218
+North America	Canada	2016	3	Clarinet	Winds	2571.00	475
+North America	Canada	2016	3	Trumpet	Brass	6619.00	548
+North America	Canada	2016	3	Trombone	Brass	6441.00	310
+North America	Canada	2016	3	Tuba	Brass	2900.00	384
+North America	Canada	2016	3	Sax	Winds	5999.00	676
+Europe	France	2016	3	Piano	Strings	6182.00	246
+Europe	France	2016	3	Violin	Strings	5954.00	565
+Europe	France	2016	3	Cello	Strings	4490.00	384
+Europe	France	2016	3	Guitar	Strings	4147.00	532
+Europe	France	2016	3	Flute	Winds	4017.00	596
+Europe	France	2016	3	Oboe	Winds	6941.00	573
+Europe	France	2016	3	Clarinet	Winds	2640.00	675
+Europe	France	2016	3	Trumpet	Brass	5857.00	639
+Europe	France	2016	3	Trombone	Brass	4686.00	479
+Europe	France	2016	3	Tuba	Brass	5471.00	263
+Europe	France	2016	3	Sax	Winds	6950.00	625
+Europe	Germany	2016	3	Piano	Strings	2547.00	323
+Europe	Germany	2016	3	Violin	Strings	5956.00	314
+Europe	Germany	2016	3	Cello	Strings	6437.00	418
+Europe	Germany	2016	3	Guitar	Strings	6477.00	268
+Europe	Germany	2016	3	Flute	Winds	5714.00	384
+Europe	Germany	2016	3	Oboe	Winds	6296.00	311
+Europe	Germany	2016	3	Clarinet	Winds	6065.00	420
+Europe	Germany	2016	3	Trumpet	Brass	2228.00	552
+Europe	Germany	2016	3	Trombone	Brass	4432.00	350
+Europe	Germany	2016	3	Tuba	Brass	2379.00	218
+Europe	Germany	2016	3	Sax	Winds	4403.00	503
+Europe	UK	2016	3	Piano	Strings	4665.00	588
+Europe	UK	2016	3	Violin	Strings	2854.00	225
+Europe	UK	2016	3	Cello	Strings	6579.00	572
+Europe	UK	2016	3	Guitar	Strings	2833.00	505
+Europe	UK	2016	3	Flute	Winds	6202.00	401
+Europe	UK	2016	3	Oboe	Winds	2711.00	240
+Europe	UK	2016	3	Clarinet	Winds	4475.00	450
+Europe	UK	2016	3	Trumpet	Brass	6562.00	612
+Europe	UK	2016	3	Trombone	Brass	3708.00	682
+Europe	UK	2016	3	Tuba	Brass	5812.00	601
+Europe	UK	2016	3	Sax	Winds	2349.00	218
+Europe	Spain	2016	3	Piano	Strings	2124.00	614
+Europe	Spain	2016	3	Violin	Strings	6002.00	534
+Europe	Spain	2016	3	Cello	Strings	6544.00	244
+Europe	Spain	2016	3	Guitar	Strings	4687.00	280
+Europe	Spain	2016	3	Flute	Winds	4885.00	653
+Europe	Spain	2016	3	Oboe	Winds	6359.00	225
+Europe	Spain	2016	3	Clarinet	Winds	4373.00	579
+Europe	Spain	2016	3	Trumpet	Brass	6675.00	329
+Europe	Spain	2016	3	Trombone	Brass	6535.00	469
+Europe	Spain	2016	3	Tuba	Brass	5006.00	437
+Europe	Spain	2016	3	Sax	Winds	6342.00	241
+Africa	Egypt	2016	3	Piano	Strings	6706.00	599
+Africa	Egypt	2016	3	Violin	Strings	2595.00	658
+Africa	Egypt	2016	3	Cello	Strings	6623.00	516
+Africa	Egypt	2016	3	Guitar	Strings	4572.00	345
+Africa	Egypt	2016	3	Flute	Winds	3872.00	610
+Africa	Egypt	2016	3	Oboe	Winds	4913.00	415
+Africa	Egypt	2016	3	Clarinet	Winds	2844.00	221
+Africa	Egypt	2016	3	Trumpet	Brass	3764.00	231
+Africa	Egypt	2016	3	Trombone	Brass	5473.00	424
+Africa	Egypt	2016	3	Tuba	Brass	4166.00	287
+Africa	Egypt	2016	3	Sax	Winds	4754.00	477
+Africa	Morocco	2016	3	Piano	Strings	3696.00	216
+Africa	Morocco	2016	3	Violin	Strings	4507.00	391
+Africa	Morocco	2016	3	Cello	Strings	2357.00	423
+Africa	Morocco	2016	3	Guitar	Strings	5394.00	623
+Africa	Morocco	2016	3	Flute	Winds	6722.00	343
+Africa	Morocco	2016	3	Oboe	Winds	2180.00	399
+Africa	Morocco	2016	3	Clarinet	Winds	5320.00	323
+Africa	Morocco	2016	3	Trumpet	Brass	2255.00	659
+Africa	Morocco	2016	3	Trombone	Brass	5278.00	631
+Africa	Morocco	2016	3	Tuba	Brass	5397.00	626
+Africa	Morocco	2016	3	Sax	Winds	5214.00	588
+Asia	Japan	2016	3	Piano	Strings	4785.00	503
+Asia	Japan	2016	3	Violin	Strings	4375.00	327
+Asia	Japan	2016	3	Cello	Strings	4268.00	290
+Asia	Japan	2016	3	Guitar	Strings	3029.00	673
+Asia	Japan	2016	3	Flute	Winds	6881.00	235
+Asia	Japan	2016	3	Oboe	Winds	4104.00	653
+Asia	Japan	2016	3	Clarinet	Winds	4607.00	397
+Asia	Japan	2016	3	Trumpet	Brass	6081.00	631
+Asia	Japan	2016	3	Trombone	Brass	4395.00	349
+Asia	Japan	2016	3	Tuba	Brass	2133.00	560
+Asia	Japan	2016	3	Sax	Winds	5429.00	492
+Asia	China	2016	3	Piano	Strings	5516.00	370
+Asia	China	2016	3	Violin	Strings	2634.00	503
+Asia	China	2016	3	Cello	Strings	6209.00	473
+Asia	China	2016	3	Guitar	Strings	6453.00	408
+Asia	China	2016	3	Flute	Winds	3806.00	398
+Asia	China	2016	3	Oboe	Winds	3855.00	271
+Asia	China	2016	3	Clarinet	Winds	6656.00	545
+Asia	China	2016	3	Trumpet	Brass	5603.00	520
+Asia	China	2016	3	Trombone	Brass	2254.00	574
+Asia	China	2016	3	Tuba	Brass	4770.00	388
+Asia	China	2016	3	Sax	Winds	3878.00	406
+Asia	India	2016	3	Piano	Strings	6504.00	489
+Asia	India	2016	3	Violin	Strings	3487.00	359
+Asia	India	2016	3	Cello	Strings	4043.00	506
+Asia	India	2016	3	Guitar	Strings	5856.00	409
+Asia	India	2016	3	Flute	Winds	5983.00	518
+Asia	India	2016	3	Oboe	Winds	3965.00	567
+Asia	India	2016	3	Clarinet	Winds	4792.00	439
+Asia	India	2016	3	Trumpet	Brass	5647.00	389
+Asia	India	2016	3	Trombone	Brass	6574.00	595
+Asia	India	2016	3	Tuba	Brass	6472.00	611
+Asia	India	2016	3	Sax	Winds	2087.00	416
+Asia	Thailand	2016	3	Piano	Strings	3890.00	404
+Asia	Thailand	2016	3	Violin	Strings	4010.00	253
+Asia	Thailand	2016	3	Cello	Strings	2623.00	257
+Asia	Thailand	2016	3	Guitar	Strings	5454.00	329
+Asia	Thailand	2016	3	Flute	Winds	6301.00	488
+Asia	Thailand	2016	3	Oboe	Winds	4730.00	307
+Asia	Thailand	2016	3	Clarinet	Winds	5358.00	373
+Asia	Thailand	2016	3	Trumpet	Brass	6368.00	486
+Asia	Thailand	2016	3	Trombone	Brass	6171.00	405
+Asia	Thailand	2016	3	Tuba	Brass	3375.00	617
+Asia	Thailand	2016	3	Sax	Winds	6449.00	678
+Europe	Italy	2016	3	Piano	Strings	5759.00	357
+Europe	Italy	2016	3	Violin	Strings	6874.00	393
+Europe	Italy	2016	3	Cello	Strings	5289.00	329
+Europe	Italy	2016	3	Guitar	Strings	3993.00	492
+Europe	Italy	2016	3	Flute	Winds	6512.00	327
+Europe	Italy	2016	3	Oboe	Winds	4358.00	417
+Europe	Italy	2016	3	Clarinet	Winds	4020.00	630
+Europe	Italy	2016	3	Trumpet	Brass	4917.00	488
+Europe	Italy	2016	3	Trombone	Brass	5963.00	447
+Europe	Italy	2016	3	Tuba	Brass	4652.00	418
+Europe	Italy	2016	3	Sax	Winds	3817.00	492
+South America	Mexico	2016	3	Piano	Strings	2474.00	439
+South America	Mexico	2016	3	Violin	Strings	3400.00	677
+South America	Mexico	2016	3	Cello	Strings	6361.00	564
+South America	Mexico	2016	3	Guitar	Strings	2135.00	432
+South America	Mexico	2016	3	Flute	Winds	3748.00	470
+South America	Mexico	2016	3	Oboe	Winds	2568.00	647
+South America	Mexico	2016	3	Clarinet	Winds	3170.00	501
+South America	Mexico	2016	3	Trumpet	Brass	2131.00	251
+South America	Mexico	2016	3	Trombone	Brass	2150.00	308
+South America	Mexico	2016	3	Tuba	Brass	4161.00	397
+South America	Mexico	2016	3	Sax	Winds	6341.00	600
+South America	Brazil	2016	3	Piano	Strings	5163.00	291
+South America	Brazil	2016	3	Violin	Strings	4917.00	532
+South America	Brazil	2016	3	Cello	Strings	3329.00	632
+South America	Brazil	2016	3	Guitar	Strings	2213.00	209
+South America	Brazil	2016	3	Flute	Winds	3296.00	685
+South America	Brazil	2016	3	Oboe	Winds	5617.00	321
+South America	Brazil	2016	3	Clarinet	Winds	2173.00	473
+South America	Brazil	2016	3	Trumpet	Brass	4707.00	401
+South America	Brazil	2016	3	Trombone	Brass	6795.00	601
+South America	Brazil	2016	3	Tuba	Brass	6645.00	207
+South America	Brazil	2016	3	Sax	Winds	2249.00	201
+South America	Argentina	2016	3	Piano	Strings	2817.00	229
+South America	Argentina	2016	3	Violin	Strings	6630.00	500
+South America	Argentina	2016	3	Cello	Strings	6724.00	324
+South America	Argentina	2016	3	Guitar	Strings	2065.00	515
+South America	Argentina	2016	3	Flute	Winds	3119.00	470
+South America	Argentina	2016	3	Oboe	Winds	6972.00	378
+South America	Argentina	2016	3	Clarinet	Winds	3405.00	654
+South America	Argentina	2016	3	Trumpet	Brass	4582.00	277
+South America	Argentina	2016	3	Trombone	Brass	2266.00	377
+South America	Argentina	2016	3	Tuba	Brass	2698.00	525
+South America	Argentina	2016	3	Sax	Winds	5567.00	286
+North America	USA	2016	4	Piano	Strings	4716.00	261
+North America	USA	2016	4	Violin	Strings	4489.00	433
+North America	USA	2016	4	Cello	Strings	6886.00	266
+North America	USA	2016	4	Guitar	Strings	5919.00	656
+North America	USA	2016	4	Flute	Winds	6833.00	409
+North America	USA	2016	4	Oboe	Winds	4096.00	593
+North America	USA	2016	4	Clarinet	Winds	3318.00	217
+North America	USA	2016	4	Trumpet	Brass	3496.00	305
+North America	USA	2016	4	Trombone	Brass	2255.00	572
+North America	USA	2016	4	Tuba	Brass	2975.00	541
+North America	USA	2016	4	Sax	Winds	3978.00	532
+North America	Canada	2016	4	Piano	Strings	6161.00	621
+North America	Canada	2016	4	Violin	Strings	6755.00	270
+North America	Canada	2016	4	Cello	Strings	3092.00	439
+North America	Canada	2016	4	Guitar	Strings	6555.00	654
+North America	Canada	2016	4	Flute	Winds	3107.00	599
+North America	Canada	2016	4	Oboe	Winds	3061.00	435
+North America	Canada	2016	4	Clarinet	Winds	3989.00	673
+North America	Canada	2016	4	Trumpet	Brass	6939.00	568
+North America	Canada	2016	4	Trombone	Brass	2353.00	583
+North America	Canada	2016	4	Tuba	Brass	3352.00	661
+North America	Canada	2016	4	Sax	Winds	5289.00	607
+Europe	France	2016	4	Piano	Strings	6726.00	543
+Europe	France	2016	4	Violin	Strings	3248.00	517
+Europe	France	2016	4	Cello	Strings	6763.00	459
+Europe	France	2016	4	Guitar	Strings	4190.00	330
+Europe	France	2016	4	Flute	Winds	5711.00	392
+Europe	France	2016	4	Oboe	Winds	3968.00	698
+Europe	France	2016	4	Clarinet	Winds	6878.00	504
+Europe	France	2016	4	Trumpet	Brass	2972.00	410
+Europe	France	2016	4	Trombone	Brass	4397.00	213
+Europe	France	2016	4	Tuba	Brass	4017.00	527
+Europe	France	2016	4	Sax	Winds	4239.00	383
+Europe	Germany	2016	4	Piano	Strings	6489.00	639
+Europe	Germany	2016	4	Violin	Strings	6486.00	646
+Europe	Germany	2016	4	Cello	Strings	6728.00	252
+Europe	Germany	2016	4	Guitar	Strings	3838.00	348
+Europe	Germany	2016	4	Flute	Winds	4676.00	288
+Europe	Germany	2016	4	Oboe	Winds	6385.00	619
+Europe	Germany	2016	4	Clarinet	Winds	6761.00	225
+Europe	Germany	2016	4	Trumpet	Brass	2619.00	567
+Europe	Germany	2016	4	Trombone	Brass	5045.00	352
+Europe	Germany	2016	4	Tuba	Brass	6704.00	599
+Europe	Germany	2016	4	Sax	Winds	2606.00	651
+Europe	UK	2016	4	Piano	Strings	6984.00	368
+Europe	UK	2016	4	Violin	Strings	5186.00	305
+Europe	UK	2016	4	Cello	Strings	5756.00	341
+Europe	UK	2016	4	Guitar	Strings	4079.00	333
+Europe	UK	2016	4	Flute	Winds	5282.00	497
+Europe	UK	2016	4	Oboe	Winds	5269.00	346
+Europe	UK	2016	4	Clarinet	Winds	5057.00	642
+Europe	UK	2016	4	Trumpet	Brass	4825.00	429
+Europe	UK	2016	4	Trombone	Brass	5320.00	362
+Europe	UK	2016	4	Tuba	Brass	5539.00	651
+Europe	UK	2016	4	Sax	Winds	6826.00	585
+Europe	Spain	2016	4	Piano	Strings	4817.00	696
+Europe	Spain	2016	4	Violin	Strings	6856.00	285
+Europe	Spain	2016	4	Cello	Strings	3821.00	623
+Europe	Spain	2016	4	Guitar	Strings	6486.00	294
+Europe	Spain	2016	4	Flute	Winds	2857.00	245
+Europe	Spain	2016	4	Oboe	Winds	4101.00	253
+Europe	Spain	2016	4	Clarinet	Winds	3018.00	640
+Europe	Spain	2016	4	Trumpet	Brass	5163.00	680
+Europe	Spain	2016	4	Trombone	Brass	4073.00	285
+Europe	Spain	2016	4	Tuba	Brass	3221.00	667
+Europe	Spain	2016	4	Sax	Winds	3610.00	309
+Africa	Egypt	2016	4	Piano	Strings	2184.00	696
+Africa	Egypt	2016	4	Violin	Strings	2424.00	381
+Africa	Egypt	2016	4	Cello	Strings	4831.00	591
+Africa	Egypt	2016	4	Guitar	Strings	6158.00	212
+Africa	Egypt	2016	4	Flute	Winds	2581.00	582
+Africa	Egypt	2016	4	Oboe	Winds	3196.00	695
+Africa	Egypt	2016	4	Clarinet	Winds	6504.00	505
+Africa	Egypt	2016	4	Trumpet	Brass	3799.00	658
+Africa	Egypt	2016	4	Trombone	Brass	4590.00	618
+Africa	Egypt	2016	4	Tuba	Brass	5501.00	245
+Africa	Egypt	2016	4	Sax	Winds	5264.00	550
+Africa	Morocco	2016	4	Piano	Strings	4746.00	431
+Africa	Morocco	2016	4	Violin	Strings	2149.00	371
+Africa	Morocco	2016	4	Cello	Strings	4782.00	648
+Africa	Morocco	2016	4	Guitar	Strings	5086.00	284
+Africa	Morocco	2016	4	Flute	Winds	4795.00	545
+Africa	Morocco	2016	4	Oboe	Winds	2398.00	450
+Africa	Morocco	2016	4	Clarinet	Winds	5309.00	372
+Africa	Morocco	2016	4	Trumpet	Brass	4402.00	428
+Africa	Morocco	2016	4	Trombone	Brass	4817.00	487
+Africa	Morocco	2016	4	Tuba	Brass	3181.00	251
+Africa	Morocco	2016	4	Sax	Winds	2679.00	488
+Asia	Japan	2016	4	Piano	Strings	3595.00	617
+Asia	Japan	2016	4	Violin	Strings	3260.00	472
+Asia	Japan	2016	4	Cello	Strings	5547.00	210
+Asia	Japan	2016	4	Guitar	Strings	6320.00	418
+Asia	Japan	2016	4	Flute	Winds	2501.00	649
+Asia	Japan	2016	4	Oboe	Winds	3654.00	693
+Asia	Japan	2016	4	Clarinet	Winds	6246.00	553
+Asia	Japan	2016	4	Trumpet	Brass	6986.00	687
+Asia	Japan	2016	4	Trombone	Brass	2910.00	239
+Asia	Japan	2016	4	Tuba	Brass	2104.00	568
+Asia	Japan	2016	4	Sax	Winds	5230.00	542
+Asia	China	2016	4	Piano	Strings	4258.00	668
+Asia	China	2016	4	Violin	Strings	6064.00	262
+Asia	China	2016	4	Cello	Strings	4795.00	491
+Asia	China	2016	4	Guitar	Strings	3158.00	232
+Asia	China	2016	4	Flute	Winds	4049.00	340
+Asia	China	2016	4	Oboe	Winds	5160.00	511
+Asia	China	2016	4	Clarinet	Winds	5487.00	583
+Asia	China	2016	4	Trumpet	Brass	3888.00	213
+Asia	China	2016	4	Trombone	Brass	6096.00	530
+Asia	China	2016	4	Tuba	Brass	2846.00	441
+Asia	China	2016	4	Sax	Winds	3022.00	443
+Asia	India	2016	4	Piano	Strings	6984.00	367
+Asia	India	2016	4	Violin	Strings	6466.00	668
+Asia	India	2016	4	Cello	Strings	3723.00	421
+Asia	India	2016	4	Guitar	Strings	3819.00	394
+Asia	India	2016	4	Flute	Winds	5213.00	615
+Asia	India	2016	4	Oboe	Winds	5055.00	536
+Asia	India	2016	4	Clarinet	Winds	6849.00	485
+Asia	India	2016	4	Trumpet	Brass	4373.00	239
+Asia	India	2016	4	Trombone	Brass	2042.00	665
+Asia	India	2016	4	Tuba	Brass	3086.00	516
+Asia	India	2016	4	Sax	Winds	3230.00	580
+Asia	Thailand	2016	4	Piano	Strings	3760.00	504
+Asia	Thailand	2016	4	Violin	Strings	4144.00	266
+Asia	Thailand	2016	4	Cello	Strings	5609.00	345
+Asia	Thailand	2016	4	Guitar	Strings	3328.00	317
+Asia	Thailand	2016	4	Flute	Winds	6132.00	694
+Asia	Thailand	2016	4	Oboe	Winds	3896.00	455
+Asia	Thailand	2016	4	Clarinet	Winds	4005.00	356
+Asia	Thailand	2016	4	Trumpet	Brass	4558.00	223
+Asia	Thailand	2016	4	Trombone	Brass	3220.00	540
+Asia	Thailand	2016	4	Tuba	Brass	6876.00	308
+Asia	Thailand	2016	4	Sax	Winds	3480.00	240
+Europe	Italy	2016	4	Piano	Strings	3787.00	487
+Europe	Italy	2016	4	Violin	Strings	6834.00	248
+Europe	Italy	2016	4	Cello	Strings	4364.00	692
+Europe	Italy	2016	4	Guitar	Strings	5571.00	284
+Europe	Italy	2016	4	Flute	Winds	4836.00	212
+Europe	Italy	2016	4	Oboe	Winds	6360.00	253
+Europe	Italy	2016	4	Clarinet	Winds	5847.00	510
+Europe	Italy	2016	4	Trumpet	Brass	5641.00	629
+Europe	Italy	2016	4	Trombone	Brass	5979.00	667
+Europe	Italy	2016	4	Tuba	Brass	6264.00	464
+Europe	Italy	2016	4	Sax	Winds	6512.00	456
+South America	Mexico	2016	4	Piano	Strings	5382.00	518
+South America	Mexico	2016	4	Violin	Strings	2444.00	534
+South America	Mexico	2016	4	Cello	Strings	3590.00	520
+South America	Mexico	2016	4	Guitar	Strings	4751.00	263
+South America	Mexico	2016	4	Flute	Winds	5315.00	546
+South America	Mexico	2016	4	Oboe	Winds	3909.00	658
+South America	Mexico	2016	4	Clarinet	Winds	5458.00	533
+South America	Mexico	2016	4	Trumpet	Brass	4657.00	453
+South America	Mexico	2016	4	Trombone	Brass	2286.00	407
+South America	Mexico	2016	4	Tuba	Brass	2010.00	299
+South America	Mexico	2016	4	Sax	Winds	6569.00	343
+South America	Brazil	2016	4	Piano	Strings	3528.00	586
+South America	Brazil	2016	4	Violin	Strings	6973.00	648
+South America	Brazil	2016	4	Cello	Strings	2831.00	382
+South America	Brazil	2016	4	Guitar	Strings	6701.00	268
+South America	Brazil	2016	4	Flute	Winds	4364.00	512
+South America	Brazil	2016	4	Oboe	Winds	6380.00	419
+South America	Brazil	2016	4	Clarinet	Winds	4413.00	245
+South America	Brazil	2016	4	Trumpet	Brass	3208.00	350
+South America	Brazil	2016	4	Trombone	Brass	3370.00	620
+South America	Brazil	2016	4	Tuba	Brass	6340.00	220
+South America	Brazil	2016	4	Sax	Winds	4248.00	389
+South America	Argentina	2016	4	Piano	Strings	3527.00	609
+South America	Argentina	2016	4	Violin	Strings	2451.00	588
+South America	Argentina	2016	4	Cello	Strings	4012.00	652
+South America	Argentina	2016	4	Guitar	Strings	6782.00	232
+South America	Argentina	2016	4	Flute	Winds	2668.00	292
+South America	Argentina	2016	4	Oboe	Winds	6717.00	634
+South America	Argentina	2016	4	Clarinet	Winds	5387.00	668
+South America	Argentina	2016	4	Trumpet	Brass	5915.00	353
+South America	Argentina	2016	4	Trombone	Brass	5722.00	621
+South America	Argentina	2016	4	Tuba	Brass	6983.00	262
+South America	Argentina	2016	4	Sax	Winds	2780.00	325
+North America	USA	2016	5	Piano	Strings	2497.00	246
+North America	USA	2016	5	Violin	Strings	5358.00	546
+North America	USA	2016	5	Cello	Strings	2263.00	519
+North America	USA	2016	5	Guitar	Strings	2337.00	527
+North America	USA	2016	5	Flute	Winds	6834.00	571
+North America	USA	2016	5	Oboe	Winds	4321.00	493
+North America	USA	2016	5	Clarinet	Winds	2277.00	239
+North America	USA	2016	5	Trumpet	Brass	6530.00	284
+North America	USA	2016	5	Trombone	Brass	6185.00	400
+North America	USA	2016	5	Tuba	Brass	2938.00	614
+North America	USA	2016	5	Sax	Winds	4947.00	295
+North America	Canada	2016	5	Piano	Strings	6662.00	454
+North America	Canada	2016	5	Violin	Strings	2261.00	469
+North America	Canada	2016	5	Cello	Strings	6610.00	539
+North America	Canada	2016	5	Guitar	Strings	3899.00	348
+North America	Canada	2016	5	Flute	Winds	5362.00	500
+North America	Canada	2016	5	Oboe	Winds	3726.00	429
+North America	Canada	2016	5	Clarinet	Winds	3319.00	624
+North America	Canada	2016	5	Trumpet	Brass	5962.00	602
+North America	Canada	2016	5	Trombone	Brass	4087.00	234
+North America	Canada	2016	5	Tuba	Brass	3699.00	595
+North America	Canada	2016	5	Sax	Winds	6123.00	699
+Europe	France	2016	5	Piano	Strings	3667.00	546
+Europe	France	2016	5	Violin	Strings	5622.00	569
+Europe	France	2016	5	Cello	Strings	2249.00	695
+Europe	France	2016	5	Guitar	Strings	5660.00	326
+Europe	France	2016	5	Flute	Winds	2749.00	209
+Europe	France	2016	5	Oboe	Winds	6582.00	272
+Europe	France	2016	5	Clarinet	Winds	3902.00	623
+Europe	France	2016	5	Trumpet	Brass	2645.00	538
+Europe	France	2016	5	Trombone	Brass	4646.00	411
+Europe	France	2016	5	Tuba	Brass	4909.00	211
+Europe	France	2016	5	Sax	Winds	5133.00	684
+Europe	Germany	2016	5	Piano	Strings	5372.00	598
+Europe	Germany	2016	5	Violin	Strings	3998.00	508
+Europe	Germany	2016	5	Cello	Strings	2371.00	605
+Europe	Germany	2016	5	Guitar	Strings	6873.00	351
+Europe	Germany	2016	5	Flute	Winds	2213.00	245
+Europe	Germany	2016	5	Oboe	Winds	6152.00	649
+Europe	Germany	2016	5	Clarinet	Winds	2069.00	273
+Europe	Germany	2016	5	Trumpet	Brass	2006.00	507
+Europe	Germany	2016	5	Trombone	Brass	4116.00	442
+Europe	Germany	2016	5	Tuba	Brass	4653.00	518
+Europe	Germany	2016	5	Sax	Winds	5927.00	388
+Europe	UK	2016	5	Piano	Strings	2868.00	203
+Europe	UK	2016	5	Violin	Strings	2110.00	633
+Europe	UK	2016	5	Cello	Strings	3752.00	590
+Europe	UK	2016	5	Guitar	Strings	2200.00	224
+Europe	UK	2016	5	Flute	Winds	3748.00	401
+Europe	UK	2016	5	Oboe	Winds	4801.00	486
+Europe	UK	2016	5	Clarinet	Winds	5903.00	379
+Europe	UK	2016	5	Trumpet	Brass	2972.00	406
+Europe	UK	2016	5	Trombone	Brass	3389.00	229
+Europe	UK	2016	5	Tuba	Brass	5872.00	644
+Europe	UK	2016	5	Sax	Winds	4263.00	689
+Europe	Spain	2016	5	Piano	Strings	6651.00	661
+Europe	Spain	2016	5	Violin	Strings	2487.00	227
+Europe	Spain	2016	5	Cello	Strings	6587.00	479
+Europe	Spain	2016	5	Guitar	Strings	5191.00	361
+Europe	Spain	2016	5	Flute	Winds	5478.00	567
+Europe	Spain	2016	5	Oboe	Winds	6191.00	602
+Europe	Spain	2016	5	Clarinet	Winds	3285.00	340
+Europe	Spain	2016	5	Trumpet	Brass	5751.00	527
+Europe	Spain	2016	5	Trombone	Brass	3019.00	304
+Europe	Spain	2016	5	Tuba	Brass	6602.00	472
+Europe	Spain	2016	5	Sax	Winds	4884.00	301
+Africa	Egypt	2016	5	Piano	Strings	6208.00	355
+Africa	Egypt	2016	5	Violin	Strings	6669.00	403
+Africa	Egypt	2016	5	Cello	Strings	5277.00	621
+Africa	Egypt	2016	5	Guitar	Strings	5383.00	413
+Africa	Egypt	2016	5	Flute	Winds	2532.00	307
+Africa	Egypt	2016	5	Oboe	Winds	5151.00	498
+Africa	Egypt	2016	5	Clarinet	Winds	5723.00	246
+Africa	Egypt	2016	5	Trumpet	Brass	6354.00	453
+Africa	Egypt	2016	5	Trombone	Brass	3895.00	380
+Africa	Egypt	2016	5	Tuba	Brass	6017.00	574
+Africa	Egypt	2016	5	Sax	Winds	5901.00	209
+Africa	Morocco	2016	5	Piano	Strings	4451.00	675
+Africa	Morocco	2016	5	Violin	Strings	5172.00	361
+Africa	Morocco	2016	5	Cello	Strings	3145.00	216
+Africa	Morocco	2016	5	Guitar	Strings	5727.00	286
+Africa	Morocco	2016	5	Flute	Winds	3905.00	561
+Africa	Morocco	2016	5	Oboe	Winds	4443.00	577
+Africa	Morocco	2016	5	Clarinet	Winds	4244.00	362
+Africa	Morocco	2016	5	Trumpet	Brass	4568.00	416
+Africa	Morocco	2016	5	Trombone	Brass	4025.00	567
+Africa	Morocco	2016	5	Tuba	Brass	5489.00	644
+Africa	Morocco	2016	5	Sax	Winds	3349.00	552
+Asia	Japan	2016	5	Piano	Strings	3745.00	454
+Asia	Japan	2016	5	Violin	Strings	6698.00	378
+Asia	Japan	2016	5	Cello	Strings	5295.00	215
+Asia	Japan	2016	5	Guitar	Strings	3324.00	676
+Asia	Japan	2016	5	Flute	Winds	4031.00	416
+Asia	Japan	2016	5	Oboe	Winds	3890.00	653
+Asia	Japan	2016	5	Clarinet	Winds	6548.00	235
+Asia	Japan	2016	5	Trumpet	Brass	3361.00	227
+Asia	Japan	2016	5	Trombone	Brass	3154.00	235
+Asia	Japan	2016	5	Tuba	Brass	5143.00	280
+Asia	Japan	2016	5	Sax	Winds	5141.00	685
+Asia	China	2016	5	Piano	Strings	6479.00	548
+Asia	China	2016	5	Violin	Strings	3294.00	506
+Asia	China	2016	5	Cello	Strings	5081.00	622
+Asia	China	2016	5	Guitar	Strings	2666.00	339
+Asia	China	2016	5	Flute	Winds	2027.00	586
+Asia	China	2016	5	Oboe	Winds	3585.00	241
+Asia	China	2016	5	Clarinet	Winds	5901.00	270
+Asia	China	2016	5	Trumpet	Brass	3922.00	506
+Asia	China	2016	5	Trombone	Brass	3181.00	637
+Asia	China	2016	5	Tuba	Brass	2612.00	612
+Asia	China	2016	5	Sax	Winds	4883.00	290
+Asia	India	2016	5	Piano	Strings	4410.00	287
+Asia	India	2016	5	Violin	Strings	4446.00	601
+Asia	India	2016	5	Cello	Strings	5915.00	208
+Asia	India	2016	5	Guitar	Strings	6881.00	475
+Asia	India	2016	5	Flute	Winds	2832.00	320
+Asia	India	2016	5	Oboe	Winds	4154.00	227
+Asia	India	2016	5	Clarinet	Winds	3487.00	282
+Asia	India	2016	5	Trumpet	Brass	6831.00	594
+Asia	India	2016	5	Trombone	Brass	3595.00	534
+Asia	India	2016	5	Tuba	Brass	6966.00	367
+Asia	India	2016	5	Sax	Winds	2273.00	498
+Asia	Thailand	2016	5	Piano	Strings	2244.00	646
+Asia	Thailand	2016	5	Violin	Strings	4309.00	395
+Asia	Thailand	2016	5	Cello	Strings	6370.00	225
+Asia	Thailand	2016	5	Guitar	Strings	3674.00	689
+Asia	Thailand	2016	5	Flute	Winds	5711.00	601
+Asia	Thailand	2016	5	Oboe	Winds	3288.00	660
+Asia	Thailand	2016	5	Clarinet	Winds	2184.00	605
+Asia	Thailand	2016	5	Trumpet	Brass	6040.00	598
+Asia	Thailand	2016	5	Trombone	Brass	2400.00	660
+Asia	Thailand	2016	5	Tuba	Brass	2047.00	623
+Asia	Thailand	2016	5	Sax	Winds	3052.00	664
+Europe	Italy	2016	5	Piano	Strings	2176.00	633
+Europe	Italy	2016	5	Violin	Strings	2557.00	499
+Europe	Italy	2016	5	Cello	Strings	2806.00	369
+Europe	Italy	2016	5	Guitar	Strings	3947.00	660
+Europe	Italy	2016	5	Flute	Winds	6842.00	617
+Europe	Italy	2016	5	Oboe	Winds	4008.00	520
+Europe	Italy	2016	5	Clarinet	Winds	5986.00	522
+Europe	Italy	2016	5	Trumpet	Brass	3671.00	203
+Europe	Italy	2016	5	Trombone	Brass	4249.00	537
+Europe	Italy	2016	5	Tuba	Brass	4655.00	602
+Europe	Italy	2016	5	Sax	Winds	2715.00	493
+South America	Mexico	2016	5	Piano	Strings	2354.00	504
+South America	Mexico	2016	5	Violin	Strings	5560.00	293
+South America	Mexico	2016	5	Cello	Strings	4980.00	352
+South America	Mexico	2016	5	Guitar	Strings	2319.00	234
+South America	Mexico	2016	5	Flute	Winds	3952.00	625
+South America	Mexico	2016	5	Oboe	Winds	6395.00	450
+South America	Mexico	2016	5	Clarinet	Winds	5540.00	351
+South America	Mexico	2016	5	Trumpet	Brass	4831.00	486
+South America	Mexico	2016	5	Trombone	Brass	3752.00	232
+South America	Mexico	2016	5	Tuba	Brass	4323.00	487
+South America	Mexico	2016	5	Sax	Winds	4474.00	408
+South America	Brazil	2016	5	Piano	Strings	3485.00	527
+South America	Brazil	2016	5	Violin	Strings	5867.00	339
+South America	Brazil	2016	5	Cello	Strings	6368.00	547
+South America	Brazil	2016	5	Guitar	Strings	4997.00	309
+South America	Brazil	2016	5	Flute	Winds	2220.00	427
+South America	Brazil	2016	5	Oboe	Winds	5738.00	564
+South America	Brazil	2016	5	Clarinet	Winds	6508.00	686
+South America	Brazil	2016	5	Trumpet	Brass	2903.00	566
+South America	Brazil	2016	5	Trombone	Brass	3177.00	294
+South America	Brazil	2016	5	Tuba	Brass	2637.00	376
+South America	Brazil	2016	5	Sax	Winds	3173.00	625
+South America	Argentina	2016	5	Piano	Strings	4062.00	666
+South America	Argentina	2016	5	Violin	Strings	4200.00	523
+South America	Argentina	2016	5	Cello	Strings	2161.00	347
+South America	Argentina	2016	5	Guitar	Strings	6745.00	500
+South America	Argentina	2016	5	Flute	Winds	6925.00	326
+South America	Argentina	2016	5	Oboe	Winds	6337.00	552
+South America	Argentina	2016	5	Clarinet	Winds	3737.00	397
+South America	Argentina	2016	5	Trumpet	Brass	2063.00	609
+South America	Argentina	2016	5	Trombone	Brass	5019.00	237
+South America	Argentina	2016	5	Tuba	Brass	6337.00	604
+South America	Argentina	2016	5	Sax	Winds	3118.00	550
+North America	USA	2016	6	Piano	Strings	5914.00	666
+North America	USA	2016	6	Violin	Strings	4450.00	317
+North America	USA	2016	6	Cello	Strings	4154.00	443
+North America	USA	2016	6	Guitar	Strings	4888.00	683
+North America	USA	2016	6	Flute	Winds	4542.00	547
+North America	USA	2016	6	Oboe	Winds	6403.00	461
+North America	USA	2016	6	Clarinet	Winds	5446.00	623
+North America	USA	2016	6	Trumpet	Brass	4957.00	271
+North America	USA	2016	6	Trombone	Brass	6142.00	545
+North America	USA	2016	6	Tuba	Brass	4640.00	290
+North America	USA	2016	6	Sax	Winds	4072.00	236
+North America	Canada	2016	6	Piano	Strings	3063.00	643
+North America	Canada	2016	6	Violin	Strings	3364.00	614
+North America	Canada	2016	6	Cello	Strings	3000.00	402
+North America	Canada	2016	6	Guitar	Strings	4595.00	662
+North America	Canada	2016	6	Flute	Winds	5274.00	229
+North America	Canada	2016	6	Oboe	Winds	5809.00	624
+North America	Canada	2016	6	Clarinet	Winds	2903.00	622
+North America	Canada	2016	6	Trumpet	Brass	4781.00	322
+North America	Canada	2016	6	Trombone	Brass	6485.00	310
+North America	Canada	2016	6	Tuba	Brass	2533.00	608
+North America	Canada	2016	6	Sax	Winds	5845.00	251
+Europe	France	2016	6	Piano	Strings	3100.00	426
+Europe	France	2016	6	Violin	Strings	2919.00	270
+Europe	France	2016	6	Cello	Strings	4544.00	514
+Europe	France	2016	6	Guitar	Strings	5901.00	315
+Europe	France	2016	6	Flute	Winds	6223.00	221
+Europe	France	2016	6	Oboe	Winds	4627.00	342
+Europe	France	2016	6	Clarinet	Winds	2303.00	453
+Europe	France	2016	6	Trumpet	Brass	2223.00	320
+Europe	France	2016	6	Trombone	Brass	6526.00	244
+Europe	France	2016	6	Tuba	Brass	2989.00	364
+Europe	France	2016	6	Sax	Winds	3225.00	451
+Europe	Germany	2016	6	Piano	Strings	6543.00	496
+Europe	Germany	2016	6	Violin	Strings	4589.00	573
+Europe	Germany	2016	6	Cello	Strings	3211.00	524
+Europe	Germany	2016	6	Guitar	Strings	4178.00	697
+Europe	Germany	2016	6	Flute	Winds	5669.00	550
+Europe	Germany	2016	6	Oboe	Winds	6692.00	572
+Europe	Germany	2016	6	Clarinet	Winds	6830.00	609
+Europe	Germany	2016	6	Trumpet	Brass	3982.00	296
+Europe	Germany	2016	6	Trombone	Brass	3989.00	417
+Europe	Germany	2016	6	Tuba	Brass	2320.00	646
+Europe	Germany	2016	6	Sax	Winds	4210.00	261
+Europe	UK	2016	6	Piano	Strings	5912.00	516
+Europe	UK	2016	6	Violin	Strings	5968.00	506
+Europe	UK	2016	6	Cello	Strings	6662.00	489
+Europe	UK	2016	6	Guitar	Strings	2042.00	224
+Europe	UK	2016	6	Flute	Winds	5193.00	537
+Europe	UK	2016	6	Oboe	Winds	3650.00	455
+Europe	UK	2016	6	Clarinet	Winds	3109.00	334
+Europe	UK	2016	6	Trumpet	Brass	5846.00	589
+Europe	UK	2016	6	Trombone	Brass	6508.00	206
+Europe	UK	2016	6	Tuba	Brass	4156.00	376
+Europe	UK	2016	6	Sax	Winds	5754.00	202
+Europe	Spain	2016	6	Piano	Strings	2471.00	554
+Europe	Spain	2016	6	Violin	Strings	6488.00	284
+Europe	Spain	2016	6	Cello	Strings	2186.00	611
+Europe	Spain	2016	6	Guitar	Strings	6895.00	654
+Europe	Spain	2016	6	Flute	Winds	2593.00	666
+Europe	Spain	2016	6	Oboe	Winds	6220.00	694
+Europe	Spain	2016	6	Clarinet	Winds	2518.00	476
+Europe	Spain	2016	6	Trumpet	Brass	4533.00	539
+Europe	Spain	2016	6	Trombone	Brass	3216.00	572
+Europe	Spain	2016	6	Tuba	Brass	3745.00	273
+Europe	Spain	2016	6	Sax	Winds	2507.00	513
+Africa	Egypt	2016	6	Piano	Strings	4872.00	247
+Africa	Egypt	2016	6	Violin	Strings	5172.00	273
+Africa	Egypt	2016	6	Cello	Strings	6554.00	526
+Africa	Egypt	2016	6	Guitar	Strings	4588.00	244
+Africa	Egypt	2016	6	Flute	Winds	4817.00	456
+Africa	Egypt	2016	6	Oboe	Winds	5623.00	372
+Africa	Egypt	2016	6	Clarinet	Winds	4093.00	367
+Africa	Egypt	2016	6	Trumpet	Brass	3773.00	413
+Africa	Egypt	2016	6	Trombone	Brass	4479.00	383
+Africa	Egypt	2016	6	Tuba	Brass	5557.00	320
+Africa	Egypt	2016	6	Sax	Winds	5261.00	377
+Africa	Morocco	2016	6	Piano	Strings	5153.00	245
+Africa	Morocco	2016	6	Violin	Strings	4672.00	534
+Africa	Morocco	2016	6	Cello	Strings	2291.00	674
+Africa	Morocco	2016	6	Guitar	Strings	5911.00	550
+Africa	Morocco	2016	6	Flute	Winds	6395.00	688
+Africa	Morocco	2016	6	Oboe	Winds	4410.00	453
+Africa	Morocco	2016	6	Clarinet	Winds	6970.00	340
+Africa	Morocco	2016	6	Trumpet	Brass	6347.00	546
+Africa	Morocco	2016	6	Trombone	Brass	5246.00	669
+Africa	Morocco	2016	6	Tuba	Brass	3413.00	476
+Africa	Morocco	2016	6	Sax	Winds	2067.00	326
+Asia	Japan	2016	6	Piano	Strings	3828.00	436
+Asia	Japan	2016	6	Violin	Strings	2032.00	339
+Asia	Japan	2016	6	Cello	Strings	4604.00	476
+Asia	Japan	2016	6	Guitar	Strings	3884.00	491
+Asia	Japan	2016	6	Flute	Winds	5065.00	456
+Asia	Japan	2016	6	Oboe	Winds	2154.00	329
+Asia	Japan	2016	6	Clarinet	Winds	6608.00	614
+Asia	Japan	2016	6	Trumpet	Brass	5049.00	297
+Asia	Japan	2016	6	Trombone	Brass	3722.00	259
+Asia	Japan	2016	6	Tuba	Brass	3594.00	494
+Asia	Japan	2016	6	Sax	Winds	6253.00	593
+Asia	China	2016	6	Piano	Strings	2021.00	556
+Asia	China	2016	6	Violin	Strings	2918.00	657
+Asia	China	2016	6	Cello	Strings	4411.00	666
+Asia	China	2016	6	Guitar	Strings	6072.00	402
+Asia	China	2016	6	Flute	Winds	2585.00	683
+Asia	China	2016	6	Oboe	Winds	2724.00	381
+Asia	China	2016	6	Clarinet	Winds	5242.00	404
+Asia	China	2016	6	Trumpet	Brass	6800.00	572
+Asia	China	2016	6	Trombone	Brass	3354.00	444
+Asia	China	2016	6	Tuba	Brass	2662.00	323
+Asia	China	2016	6	Sax	Winds	6803.00	244
+Asia	India	2016	6	Piano	Strings	4873.00	421
+Asia	India	2016	6	Violin	Strings	2271.00	206
+Asia	India	2016	6	Cello	Strings	4211.00	289
+Asia	India	2016	6	Guitar	Strings	2386.00	447
+Asia	India	2016	6	Flute	Winds	4934.00	306
+Asia	India	2016	6	Oboe	Winds	6106.00	687
+Asia	India	2016	6	Clarinet	Winds	3300.00	251
+Asia	India	2016	6	Trumpet	Brass	5364.00	252
+Asia	India	2016	6	Trombone	Brass	2327.00	374
+Asia	India	2016	6	Tuba	Brass	2957.00	209
+Asia	India	2016	6	Sax	Winds	2813.00	594
+Asia	Thailand	2016	6	Piano	Strings	6686.00	624
+Asia	Thailand	2016	6	Violin	Strings	5598.00	312
+Asia	Thailand	2016	6	Cello	Strings	4750.00	444
+Asia	Thailand	2016	6	Guitar	Strings	5085.00	366
+Asia	Thailand	2016	6	Flute	Winds	2380.00	505
+Asia	Thailand	2016	6	Oboe	Winds	4000.00	594
+Asia	Thailand	2016	6	Clarinet	Winds	4739.00	666
+Asia	Thailand	2016	6	Trumpet	Brass	4408.00	532
+Asia	Thailand	2016	6	Trombone	Brass	6053.00	563
+Asia	Thailand	2016	6	Tuba	Brass	4984.00	233
+Asia	Thailand	2016	6	Sax	Winds	5007.00	498
+Europe	Italy	2016	6	Piano	Strings	4523.00	217
+Europe	Italy	2016	6	Violin	Strings	6387.00	443
+Europe	Italy	2016	6	Cello	Strings	6708.00	534
+Europe	Italy	2016	6	Guitar	Strings	3965.00	670
+Europe	Italy	2016	6	Flute	Winds	6125.00	464
+Europe	Italy	2016	6	Oboe	Winds	4645.00	515
+Europe	Italy	2016	6	Clarinet	Winds	5531.00	337
+Europe	Italy	2016	6	Trumpet	Brass	3852.00	258
+Europe	Italy	2016	6	Trombone	Brass	4365.00	478
+Europe	Italy	2016	6	Tuba	Brass	2169.00	628
+Europe	Italy	2016	6	Sax	Winds	3518.00	275
+South America	Mexico	2016	6	Piano	Strings	3233.00	442
+South America	Mexico	2016	6	Violin	Strings	6344.00	377
+South America	Mexico	2016	6	Cello	Strings	2875.00	357
+South America	Mexico	2016	6	Guitar	Strings	5933.00	516
+South America	Mexico	2016	6	Flute	Winds	4505.00	255
+South America	Mexico	2016	6	Oboe	Winds	3617.00	447
+South America	Mexico	2016	6	Clarinet	Winds	5761.00	252
+South America	Mexico	2016	6	Trumpet	Brass	3746.00	521
+South America	Mexico	2016	6	Trombone	Brass	6391.00	330
+South America	Mexico	2016	6	Tuba	Brass	4693.00	383
+South America	Mexico	2016	6	Sax	Winds	2401.00	592
+South America	Brazil	2016	6	Piano	Strings	6129.00	288
+South America	Brazil	2016	6	Violin	Strings	6441.00	650
+South America	Brazil	2016	6	Cello	Strings	2533.00	548
+South America	Brazil	2016	6	Guitar	Strings	4448.00	629
+South America	Brazil	2016	6	Flute	Winds	2959.00	603
+South America	Brazil	2016	6	Oboe	Winds	3535.00	302
+South America	Brazil	2016	6	Clarinet	Winds	2051.00	217
+South America	Brazil	2016	6	Trumpet	Brass	6133.00	345
+South America	Brazil	2016	6	Trombone	Brass	2313.00	295
+South America	Brazil	2016	6	Tuba	Brass	5381.00	224
+South America	Brazil	2016	6	Sax	Winds	2616.00	330
+South America	Argentina	2016	6	Piano	Strings	6766.00	698
+South America	Argentina	2016	6	Violin	Strings	2973.00	477
+South America	Argentina	2016	6	Cello	Strings	6015.00	455
+South America	Argentina	2016	6	Guitar	Strings	5547.00	241
+South America	Argentina	2016	6	Flute	Winds	3233.00	370
+South America	Argentina	2016	6	Oboe	Winds	6924.00	304
+South America	Argentina	2016	6	Clarinet	Winds	3299.00	386
+South America	Argentina	2016	6	Trumpet	Brass	6620.00	467
+South America	Argentina	2016	6	Trombone	Brass	2500.00	523
+South America	Argentina	2016	6	Tuba	Brass	6854.00	221
+South America	Argentina	2016	6	Sax	Winds	6426.00	510
+North America	USA	2016	7	Piano	Strings	3560.00	441
+North America	USA	2016	7	Violin	Strings	4110.00	543
+North America	USA	2016	7	Cello	Strings	3655.00	209
+North America	USA	2016	7	Guitar	Strings	3417.00	670
+North America	USA	2016	7	Flute	Winds	3549.00	258
+North America	USA	2016	7	Oboe	Winds	2685.00	294
+North America	USA	2016	7	Clarinet	Winds	3920.00	541
+North America	USA	2016	7	Trumpet	Brass	3618.00	312
+North America	USA	2016	7	Trombone	Brass	5719.00	429
+North America	USA	2016	7	Tuba	Brass	5425.00	366
+North America	USA	2016	7	Sax	Winds	2446.00	527
+North America	Canada	2016	7	Piano	Strings	5207.00	233
+North America	Canada	2016	7	Violin	Strings	3657.00	627
+North America	Canada	2016	7	Cello	Strings	4606.00	326
+North America	Canada	2016	7	Guitar	Strings	4735.00	268
+North America	Canada	2016	7	Flute	Winds	2688.00	332
+North America	Canada	2016	7	Oboe	Winds	2903.00	440
+North America	Canada	2016	7	Clarinet	Winds	5086.00	466
+North America	Canada	2016	7	Trumpet	Brass	4490.00	401
+North America	Canada	2016	7	Trombone	Brass	4393.00	358
+North America	Canada	2016	7	Tuba	Brass	3448.00	621
+North America	Canada	2016	7	Sax	Winds	6799.00	557
+Europe	France	2016	7	Piano	Strings	6118.00	355
+Europe	France	2016	7	Violin	Strings	4983.00	665
+Europe	France	2016	7	Cello	Strings	2240.00	337
+Europe	France	2016	7	Guitar	Strings	2256.00	595
+Europe	France	2016	7	Flute	Winds	2228.00	598
+Europe	France	2016	7	Oboe	Winds	2947.00	455
+Europe	France	2016	7	Clarinet	Winds	5676.00	416
+Europe	France	2016	7	Trumpet	Brass	4048.00	553
+Europe	France	2016	7	Trombone	Brass	6133.00	384
+Europe	France	2016	7	Tuba	Brass	3101.00	533
+Europe	France	2016	7	Sax	Winds	2110.00	605
+Europe	Germany	2016	7	Piano	Strings	2343.00	630
+Europe	Germany	2016	7	Violin	Strings	4350.00	510
+Europe	Germany	2016	7	Cello	Strings	4091.00	555
+Europe	Germany	2016	7	Guitar	Strings	4345.00	310
+Europe	Germany	2016	7	Flute	Winds	2388.00	502
+Europe	Germany	2016	7	Oboe	Winds	4098.00	560
+Europe	Germany	2016	7	Clarinet	Winds	5890.00	281
+Europe	Germany	2016	7	Trumpet	Brass	2141.00	356
+Europe	Germany	2016	7	Trombone	Brass	2008.00	573
+Europe	Germany	2016	7	Tuba	Brass	5799.00	656
+Europe	Germany	2016	7	Sax	Winds	2299.00	318
+Europe	UK	2016	7	Piano	Strings	4708.00	227
+Europe	UK	2016	7	Violin	Strings	4105.00	220
+Europe	UK	2016	7	Cello	Strings	5579.00	212
+Europe	UK	2016	7	Guitar	Strings	3447.00	379
+Europe	UK	2016	7	Flute	Winds	3212.00	326
+Europe	UK	2016	7	Oboe	Winds	4161.00	550
+Europe	UK	2016	7	Clarinet	Winds	2766.00	678
+Europe	UK	2016	7	Trumpet	Brass	3293.00	526
+Europe	UK	2016	7	Trombone	Brass	3270.00	216
+Europe	UK	2016	7	Tuba	Brass	2735.00	646
+Europe	UK	2016	7	Sax	Winds	2392.00	295
+Europe	Spain	2016	7	Piano	Strings	2121.00	424
+Europe	Spain	2016	7	Violin	Strings	2453.00	376
+Europe	Spain	2016	7	Cello	Strings	2963.00	315
+Europe	Spain	2016	7	Guitar	Strings	2692.00	343
+Europe	Spain	2016	7	Flute	Winds	4045.00	588
+Europe	Spain	2016	7	Oboe	Winds	2785.00	450
+Europe	Spain	2016	7	Clarinet	Winds	3061.00	343
+Europe	Spain	2016	7	Trumpet	Brass	2604.00	390
+Europe	Spain	2016	7	Trombone	Brass	4507.00	636
+Europe	Spain	2016	7	Tuba	Brass	3242.00	494
+Europe	Spain	2016	7	Sax	Winds	3823.00	243
+Africa	Egypt	2016	7	Piano	Strings	4269.00	544
+Africa	Egypt	2016	7	Violin	Strings	2778.00	537
+Africa	Egypt	2016	7	Cello	Strings	2255.00	228
+Africa	Egypt	2016	7	Guitar	Strings	6120.00	502
+Africa	Egypt	2016	7	Flute	Winds	5532.00	202
+Africa	Egypt	2016	7	Oboe	Winds	4456.00	361
+Africa	Egypt	2016	7	Clarinet	Winds	5208.00	289
+Africa	Egypt	2016	7	Trumpet	Brass	3401.00	337
+Africa	Egypt	2016	7	Trombone	Brass	2438.00	299
+Africa	Egypt	2016	7	Tuba	Brass	3966.00	531
+Africa	Egypt	2016	7	Sax	Winds	6936.00	475
+Africa	Morocco	2016	7	Piano	Strings	4195.00	437
+Africa	Morocco	2016	7	Violin	Strings	6740.00	561
+Africa	Morocco	2016	7	Cello	Strings	2063.00	570
+Africa	Morocco	2016	7	Guitar	Strings	4230.00	499
+Africa	Morocco	2016	7	Flute	Winds	4608.00	223
+Africa	Morocco	2016	7	Oboe	Winds	3391.00	250
+Africa	Morocco	2016	7	Clarinet	Winds	3330.00	353
+Africa	Morocco	2016	7	Trumpet	Brass	3332.00	238
+Africa	Morocco	2016	7	Trombone	Brass	5824.00	588
+Africa	Morocco	2016	7	Tuba	Brass	3047.00	421
+Africa	Morocco	2016	7	Sax	Winds	3677.00	358
+Asia	Japan	2016	7	Piano	Strings	2437.00	485
+Asia	Japan	2016	7	Violin	Strings	6604.00	654
+Asia	Japan	2016	7	Cello	Strings	4568.00	665
+Asia	Japan	2016	7	Guitar	Strings	2843.00	412
+Asia	Japan	2016	7	Flute	Winds	4195.00	693
+Asia	Japan	2016	7	Oboe	Winds	5790.00	519
+Asia	Japan	2016	7	Clarinet	Winds	2518.00	363
+Asia	Japan	2016	7	Trumpet	Brass	6895.00	445
+Asia	Japan	2016	7	Trombone	Brass	3207.00	232
+Asia	Japan	2016	7	Tuba	Brass	4800.00	506
+Asia	Japan	2016	7	Sax	Winds	4662.00	436
+Asia	China	2016	7	Piano	Strings	5728.00	240
+Asia	China	2016	7	Violin	Strings	3530.00	637
+Asia	China	2016	7	Cello	Strings	5129.00	418
+Asia	China	2016	7	Guitar	Strings	4470.00	593
+Asia	China	2016	7	Flute	Winds	5565.00	679
+Asia	China	2016	7	Oboe	Winds	6171.00	354
+Asia	China	2016	7	Clarinet	Winds	5854.00	282
+Asia	China	2016	7	Trumpet	Brass	3614.00	581
+Asia	China	2016	7	Trombone	Brass	6458.00	496
+Asia	China	2016	7	Tuba	Brass	6591.00	494
+Asia	China	2016	7	Sax	Winds	6126.00	602
+Asia	India	2016	7	Piano	Strings	4469.00	439
+Asia	India	2016	7	Violin	Strings	4785.00	529
+Asia	India	2016	7	Cello	Strings	2206.00	585
+Asia	India	2016	7	Guitar	Strings	2677.00	609
+Asia	India	2016	7	Flute	Winds	2614.00	243
+Asia	India	2016	7	Oboe	Winds	5755.00	464
+Asia	India	2016	7	Clarinet	Winds	4882.00	314
+Asia	India	2016	7	Trumpet	Brass	2316.00	509
+Asia	India	2016	7	Trombone	Brass	4332.00	358
+Asia	India	2016	7	Tuba	Brass	5902.00	590
+Asia	India	2016	7	Sax	Winds	3441.00	287
+Asia	Thailand	2016	7	Piano	Strings	4431.00	238
+Asia	Thailand	2016	7	Violin	Strings	4106.00	689
+Asia	Thailand	2016	7	Cello	Strings	5591.00	550
+Asia	Thailand	2016	7	Guitar	Strings	6156.00	270
+Asia	Thailand	2016	7	Flute	Winds	3485.00	204
+Asia	Thailand	2016	7	Oboe	Winds	2124.00	429
+Asia	Thailand	2016	7	Clarinet	Winds	6514.00	585
+Asia	Thailand	2016	7	Trumpet	Brass	3256.00	447
+Asia	Thailand	2016	7	Trombone	Brass	6523.00	546
+Asia	Thailand	2016	7	Tuba	Brass	6779.00	311
+Asia	Thailand	2016	7	Sax	Winds	4191.00	289
+Europe	Italy	2016	7	Piano	Strings	4419.00	661
+Europe	Italy	2016	7	Violin	Strings	5667.00	376
+Europe	Italy	2016	7	Cello	Strings	2163.00	357
+Europe	Italy	2016	7	Guitar	Strings	5469.00	358
+Europe	Italy	2016	7	Flute	Winds	6279.00	675
+Europe	Italy	2016	7	Oboe	Winds	5616.00	535
+Europe	Italy	2016	7	Clarinet	Winds	5575.00	628
+Europe	Italy	2016	7	Trumpet	Brass	6025.00	339
+Europe	Italy	2016	7	Trombone	Brass	4922.00	411
+Europe	Italy	2016	7	Tuba	Brass	6148.00	340
+Europe	Italy	2016	7	Sax	Winds	5015.00	473
+South America	Mexico	2016	7	Piano	Strings	2864.00	380
+South America	Mexico	2016	7	Violin	Strings	3389.00	208
+South America	Mexico	2016	7	Cello	Strings	4619.00	333
+South America	Mexico	2016	7	Guitar	Strings	6686.00	281
+South America	Mexico	2016	7	Flute	Winds	6817.00	483
+South America	Mexico	2016	7	Oboe	Winds	4172.00	568
+South America	Mexico	2016	7	Clarinet	Winds	3462.00	535
+South America	Mexico	2016	7	Trumpet	Brass	2496.00	231
+South America	Mexico	2016	7	Trombone	Brass	5046.00	248
+South America	Mexico	2016	7	Tuba	Brass	6716.00	408
+South America	Mexico	2016	7	Sax	Winds	2691.00	691
+South America	Brazil	2016	7	Piano	Strings	2554.00	539
+South America	Brazil	2016	7	Violin	Strings	3540.00	629
+South America	Brazil	2016	7	Cello	Strings	4920.00	307
+South America	Brazil	2016	7	Guitar	Strings	2396.00	525
+South America	Brazil	2016	7	Flute	Winds	2673.00	212
+South America	Brazil	2016	7	Oboe	Winds	4615.00	680
+South America	Brazil	2016	7	Clarinet	Winds	4637.00	261
+South America	Brazil	2016	7	Trumpet	Brass	5244.00	486
+South America	Brazil	2016	7	Trombone	Brass	6869.00	294
+South America	Brazil	2016	7	Tuba	Brass	4416.00	310
+South America	Brazil	2016	7	Sax	Winds	6172.00	426
+South America	Argentina	2016	7	Piano	Strings	3983.00	500
+South America	Argentina	2016	7	Violin	Strings	4861.00	620
+South America	Argentina	2016	7	Cello	Strings	5416.00	524
+South America	Argentina	2016	7	Guitar	Strings	6782.00	377
+South America	Argentina	2016	7	Flute	Winds	3938.00	220
+South America	Argentina	2016	7	Oboe	Winds	4573.00	563
+South America	Argentina	2016	7	Clarinet	Winds	3917.00	684
+South America	Argentina	2016	7	Trumpet	Brass	3181.00	350
+South America	Argentina	2016	7	Trombone	Brass	5510.00	275
+South America	Argentina	2016	7	Tuba	Brass	4629.00	286
+South America	Argentina	2016	7	Sax	Winds	2549.00	250
+North America	USA	2016	8	Piano	Strings	4031.00	494
+North America	USA	2016	8	Violin	Strings	6682.00	521
+North America	USA	2016	8	Cello	Strings	6857.00	490
+North America	USA	2016	8	Guitar	Strings	2767.00	536
+North America	USA	2016	8	Flute	Winds	2450.00	626
+North America	USA	2016	8	Oboe	Winds	5512.00	289
+North America	USA	2016	8	Clarinet	Winds	3790.00	665
+North America	USA	2016	8	Trumpet	Brass	2360.00	454
+North America	USA	2016	8	Trombone	Brass	3511.00	473
+North America	USA	2016	8	Tuba	Brass	2637.00	639
+North America	USA	2016	8	Sax	Winds	6163.00	341
+North America	Canada	2016	8	Piano	Strings	2939.00	272
+North America	Canada	2016	8	Violin	Strings	6735.00	429
+North America	Canada	2016	8	Cello	Strings	3772.00	606
+North America	Canada	2016	8	Guitar	Strings	5414.00	337
+North America	Canada	2016	8	Flute	Winds	2447.00	356
+North America	Canada	2016	8	Oboe	Winds	3601.00	300
+North America	Canada	2016	8	Clarinet	Winds	2212.00	452
+North America	Canada	2016	8	Trumpet	Brass	6183.00	509
+North America	Canada	2016	8	Trombone	Brass	2654.00	426
+North America	Canada	2016	8	Tuba	Brass	5039.00	557
+North America	Canada	2016	8	Sax	Winds	6328.00	416
+Europe	France	2016	8	Piano	Strings	3814.00	506
+Europe	France	2016	8	Violin	Strings	6658.00	302
+Europe	France	2016	8	Cello	Strings	3932.00	586
+Europe	France	2016	8	Guitar	Strings	2069.00	463
+Europe	France	2016	8	Flute	Winds	6857.00	513
+Europe	France	2016	8	Oboe	Winds	6385.00	657
+Europe	France	2016	8	Clarinet	Winds	2615.00	435
+Europe	France	2016	8	Trumpet	Brass	5464.00	533
+Europe	France	2016	8	Trombone	Brass	4559.00	504
+Europe	France	2016	8	Tuba	Brass	5090.00	263
+Europe	France	2016	8	Sax	Winds	5380.00	568
+Europe	Germany	2016	8	Piano	Strings	5117.00	297
+Europe	Germany	2016	8	Violin	Strings	4377.00	494
+Europe	Germany	2016	8	Cello	Strings	4855.00	247
+Europe	Germany	2016	8	Guitar	Strings	5969.00	611
+Europe	Germany	2016	8	Flute	Winds	4714.00	397
+Europe	Germany	2016	8	Oboe	Winds	4465.00	285
+Europe	Germany	2016	8	Clarinet	Winds	4092.00	335
+Europe	Germany	2016	8	Trumpet	Brass	5076.00	607
+Europe	Germany	2016	8	Trombone	Brass	5517.00	207
+Europe	Germany	2016	8	Tuba	Brass	6184.00	220
+Europe	Germany	2016	8	Sax	Winds	5038.00	605
+Europe	UK	2016	8	Piano	Strings	2852.00	260
+Europe	UK	2016	8	Violin	Strings	3865.00	573
+Europe	UK	2016	8	Cello	Strings	6597.00	429
+Europe	UK	2016	8	Guitar	Strings	6260.00	238
+Europe	UK	2016	8	Flute	Winds	6399.00	689
+Europe	UK	2016	8	Oboe	Winds	3677.00	570
+Europe	UK	2016	8	Clarinet	Winds	5970.00	583
+Europe	UK	2016	8	Trumpet	Brass	5154.00	264
+Europe	UK	2016	8	Trombone	Brass	2271.00	679
+Europe	UK	2016	8	Tuba	Brass	3951.00	248
+Europe	UK	2016	8	Sax	Winds	5272.00	641
+Europe	Spain	2016	8	Piano	Strings	5443.00	317
+Europe	Spain	2016	8	Violin	Strings	3976.00	426
+Europe	Spain	2016	8	Cello	Strings	6260.00	387
+Europe	Spain	2016	8	Guitar	Strings	3676.00	602
+Europe	Spain	2016	8	Flute	Winds	4678.00	382
+Europe	Spain	2016	8	Oboe	Winds	4477.00	293
+Europe	Spain	2016	8	Clarinet	Winds	2258.00	239
+Europe	Spain	2016	8	Trumpet	Brass	6058.00	252
+Europe	Spain	2016	8	Trombone	Brass	6738.00	544
+Europe	Spain	2016	8	Tuba	Brass	3688.00	554
+Europe	Spain	2016	8	Sax	Winds	6175.00	286
+Africa	Egypt	2016	8	Piano	Strings	5494.00	418
+Africa	Egypt	2016	8	Violin	Strings	4331.00	242
+Africa	Egypt	2016	8	Cello	Strings	5976.00	650
+Africa	Egypt	2016	8	Guitar	Strings	2320.00	485
+Africa	Egypt	2016	8	Flute	Winds	5769.00	216
+Africa	Egypt	2016	8	Oboe	Winds	6493.00	515
+Africa	Egypt	2016	8	Clarinet	Winds	2662.00	435
+Africa	Egypt	2016	8	Trumpet	Brass	2581.00	519
+Africa	Egypt	2016	8	Trombone	Brass	3866.00	300
+Africa	Egypt	2016	8	Tuba	Brass	6087.00	253
+Africa	Egypt	2016	8	Sax	Winds	4521.00	425
+Africa	Morocco	2016	8	Piano	Strings	3923.00	549
+Africa	Morocco	2016	8	Violin	Strings	2473.00	613
+Africa	Morocco	2016	8	Cello	Strings	2305.00	449
+Africa	Morocco	2016	8	Guitar	Strings	4279.00	554
+Africa	Morocco	2016	8	Flute	Winds	5890.00	463
+Africa	Morocco	2016	8	Oboe	Winds	2481.00	639
+Africa	Morocco	2016	8	Clarinet	Winds	3167.00	448
+Africa	Morocco	2016	8	Trumpet	Brass	4116.00	416
+Africa	Morocco	2016	8	Trombone	Brass	3102.00	622
+Africa	Morocco	2016	8	Tuba	Brass	5485.00	650
+Africa	Morocco	2016	8	Sax	Winds	3022.00	694
+Asia	Japan	2016	8	Piano	Strings	3166.00	523
+Asia	Japan	2016	8	Violin	Strings	2761.00	619
+Asia	Japan	2016	8	Cello	Strings	6282.00	455
+Asia	Japan	2016	8	Guitar	Strings	5046.00	484
+Asia	Japan	2016	8	Flute	Winds	5016.00	547
+Asia	Japan	2016	8	Oboe	Winds	2142.00	518
+Asia	Japan	2016	8	Clarinet	Winds	5373.00	654
+Asia	Japan	2016	8	Trumpet	Brass	3742.00	218
+Asia	Japan	2016	8	Trombone	Brass	5203.00	578
+Asia	Japan	2016	8	Tuba	Brass	6104.00	614
+Asia	Japan	2016	8	Sax	Winds	6461.00	388
+Asia	China	2016	8	Piano	Strings	2444.00	646
+Asia	China	2016	8	Violin	Strings	3723.00	367
+Asia	China	2016	8	Cello	Strings	4579.00	676
+Asia	China	2016	8	Guitar	Strings	3953.00	583
+Asia	China	2016	8	Flute	Winds	5813.00	619
+Asia	China	2016	8	Oboe	Winds	2519.00	581
+Asia	China	2016	8	Clarinet	Winds	5080.00	201
+Asia	China	2016	8	Trumpet	Brass	5458.00	207
+Asia	China	2016	8	Trombone	Brass	2336.00	341
+Asia	China	2016	8	Tuba	Brass	2992.00	550
+Asia	China	2016	8	Sax	Winds	5197.00	661
+Asia	India	2016	8	Piano	Strings	4291.00	515
+Asia	India	2016	8	Violin	Strings	6831.00	617
+Asia	India	2016	8	Cello	Strings	3492.00	518
+Asia	India	2016	8	Guitar	Strings	5099.00	256
+Asia	India	2016	8	Flute	Winds	6966.00	304
+Asia	India	2016	8	Oboe	Winds	2943.00	603
+Asia	India	2016	8	Clarinet	Winds	6826.00	394
+Asia	India	2016	8	Trumpet	Brass	5032.00	663
+Asia	India	2016	8	Trombone	Brass	5703.00	657
+Asia	India	2016	8	Tuba	Brass	5645.00	557
+Asia	India	2016	8	Sax	Winds	2752.00	500
+Asia	Thailand	2016	8	Piano	Strings	2821.00	282
+Asia	Thailand	2016	8	Violin	Strings	5925.00	697
+Asia	Thailand	2016	8	Cello	Strings	3739.00	589
+Asia	Thailand	2016	8	Guitar	Strings	5481.00	324
+Asia	Thailand	2016	8	Flute	Winds	6368.00	494
+Asia	Thailand	2016	8	Oboe	Winds	3756.00	337
+Asia	Thailand	2016	8	Clarinet	Winds	2353.00	411
+Asia	Thailand	2016	8	Trumpet	Brass	6177.00	264
+Asia	Thailand	2016	8	Trombone	Brass	6155.00	405
+Asia	Thailand	2016	8	Tuba	Brass	3526.00	528
+Asia	Thailand	2016	8	Sax	Winds	5445.00	584
+Europe	Italy	2016	8	Piano	Strings	5459.00	387
+Europe	Italy	2016	8	Violin	Strings	2742.00	597
+Europe	Italy	2016	8	Cello	Strings	5267.00	511
+Europe	Italy	2016	8	Guitar	Strings	3302.00	273
+Europe	Italy	2016	8	Flute	Winds	5896.00	671
+Europe	Italy	2016	8	Oboe	Winds	4264.00	378
+Europe	Italy	2016	8	Clarinet	Winds	2212.00	565
+Europe	Italy	2016	8	Trumpet	Brass	5036.00	494
+Europe	Italy	2016	8	Trombone	Brass	4514.00	259
+Europe	Italy	2016	8	Tuba	Brass	3937.00	533
+Europe	Italy	2016	8	Sax	Winds	3301.00	259
+South America	Mexico	2016	8	Piano	Strings	6089.00	365
+South America	Mexico	2016	8	Violin	Strings	5289.00	208
+South America	Mexico	2016	8	Cello	Strings	2555.00	576
+South America	Mexico	2016	8	Guitar	Strings	5674.00	201
+South America	Mexico	2016	8	Flute	Winds	5732.00	354
+South America	Mexico	2016	8	Oboe	Winds	6651.00	238
+South America	Mexico	2016	8	Clarinet	Winds	5990.00	494
+South America	Mexico	2016	8	Trumpet	Brass	2175.00	287
+South America	Mexico	2016	8	Trombone	Brass	4563.00	532
+South America	Mexico	2016	8	Tuba	Brass	3983.00	485
+South America	Mexico	2016	8	Sax	Winds	2690.00	503
+South America	Brazil	2016	8	Piano	Strings	3853.00	453
+South America	Brazil	2016	8	Violin	Strings	2007.00	322
+South America	Brazil	2016	8	Cello	Strings	2123.00	247
+South America	Brazil	2016	8	Guitar	Strings	6185.00	294
+South America	Brazil	2016	8	Flute	Winds	2456.00	424
+South America	Brazil	2016	8	Oboe	Winds	3820.00	246
+South America	Brazil	2016	8	Clarinet	Winds	2859.00	238
+South America	Brazil	2016	8	Trumpet	Brass	2579.00	285
+South America	Brazil	2016	8	Trombone	Brass	2940.00	464
+South America	Brazil	2016	8	Tuba	Brass	4584.00	680
+South America	Brazil	2016	8	Sax	Winds	2434.00	336
+South America	Argentina	2016	8	Piano	Strings	3057.00	371
+South America	Argentina	2016	8	Violin	Strings	5960.00	625
+South America	Argentina	2016	8	Cello	Strings	5210.00	601
+South America	Argentina	2016	8	Guitar	Strings	4044.00	331
+South America	Argentina	2016	8	Flute	Winds	6382.00	674
+South America	Argentina	2016	8	Oboe	Winds	5377.00	501
+South America	Argentina	2016	8	Clarinet	Winds	5435.00	337
+South America	Argentina	2016	8	Trumpet	Brass	5338.00	678
+South America	Argentina	2016	8	Trombone	Brass	6393.00	291
+South America	Argentina	2016	8	Tuba	Brass	5754.00	471
+South America	Argentina	2016	8	Sax	Winds	6328.00	319
+North America	USA	2016	9	Piano	Strings	5918.00	247
+North America	USA	2016	9	Violin	Strings	4509.00	547
+North America	USA	2016	9	Cello	Strings	4856.00	456
+North America	USA	2016	9	Guitar	Strings	2783.00	327
+North America	USA	2016	9	Flute	Winds	4839.00	572
+North America	USA	2016	9	Oboe	Winds	2226.00	243
+North America	USA	2016	9	Clarinet	Winds	6153.00	666
+North America	USA	2016	9	Trumpet	Brass	6024.00	244
+North America	USA	2016	9	Trombone	Brass	3110.00	600
+North America	USA	2016	9	Tuba	Brass	3619.00	406
+North America	USA	2016	9	Sax	Winds	6317.00	348
+North America	Canada	2016	9	Piano	Strings	6101.00	307
+North America	Canada	2016	9	Violin	Strings	6191.00	443
+North America	Canada	2016	9	Cello	Strings	2842.00	541
+North America	Canada	2016	9	Guitar	Strings	2724.00	541
+North America	Canada	2016	9	Flute	Winds	4394.00	349
+North America	Canada	2016	9	Oboe	Winds	6498.00	625
+North America	Canada	2016	9	Clarinet	Winds	6625.00	378
+North America	Canada	2016	9	Trumpet	Brass	5953.00	320
+North America	Canada	2016	9	Trombone	Brass	6111.00	560
+North America	Canada	2016	9	Tuba	Brass	5898.00	338
+North America	Canada	2016	9	Sax	Winds	6776.00	624
+Europe	France	2016	9	Piano	Strings	2284.00	550
+Europe	France	2016	9	Violin	Strings	2786.00	228
+Europe	France	2016	9	Cello	Strings	3212.00	684
+Europe	France	2016	9	Guitar	Strings	2685.00	215
+Europe	France	2016	9	Flute	Winds	6204.00	637
+Europe	France	2016	9	Oboe	Winds	4785.00	495
+Europe	France	2016	9	Clarinet	Winds	6714.00	431
+Europe	France	2016	9	Trumpet	Brass	3814.00	559
+Europe	France	2016	9	Trombone	Brass	2899.00	275
+Europe	France	2016	9	Tuba	Brass	3799.00	603
+Europe	France	2016	9	Sax	Winds	6630.00	262
+Europe	Germany	2016	9	Piano	Strings	2209.00	293
+Europe	Germany	2016	9	Violin	Strings	5761.00	694
+Europe	Germany	2016	9	Cello	Strings	5347.00	645
+Europe	Germany	2016	9	Guitar	Strings	2642.00	522
+Europe	Germany	2016	9	Flute	Winds	4990.00	532
+Europe	Germany	2016	9	Oboe	Winds	3885.00	419
+Europe	Germany	2016	9	Clarinet	Winds	6279.00	318
+Europe	Germany	2016	9	Trumpet	Brass	6382.00	472
+Europe	Germany	2016	9	Trombone	Brass	6858.00	616
+Europe	Germany	2016	9	Tuba	Brass	4568.00	508
+Europe	Germany	2016	9	Sax	Winds	2270.00	669
+Europe	UK	2016	9	Piano	Strings	3937.00	535
+Europe	UK	2016	9	Violin	Strings	2590.00	360
+Europe	UK	2016	9	Cello	Strings	5809.00	313
+Europe	UK	2016	9	Guitar	Strings	5324.00	345
+Europe	UK	2016	9	Flute	Winds	3346.00	549
+Europe	UK	2016	9	Oboe	Winds	4542.00	309
+Europe	UK	2016	9	Clarinet	Winds	3814.00	221
+Europe	UK	2016	9	Trumpet	Brass	6275.00	349
+Europe	UK	2016	9	Trombone	Brass	2102.00	517
+Europe	UK	2016	9	Tuba	Brass	5149.00	482
+Europe	UK	2016	9	Sax	Winds	5488.00	412
+Europe	Spain	2016	9	Piano	Strings	2282.00	280
+Europe	Spain	2016	9	Violin	Strings	4651.00	356
+Europe	Spain	2016	9	Cello	Strings	4422.00	625
+Europe	Spain	2016	9	Guitar	Strings	5941.00	601
+Europe	Spain	2016	9	Flute	Winds	4335.00	593
+Europe	Spain	2016	9	Oboe	Winds	4891.00	644
+Europe	Spain	2016	9	Clarinet	Winds	2452.00	461
+Europe	Spain	2016	9	Trumpet	Brass	5987.00	296
+Europe	Spain	2016	9	Trombone	Brass	4751.00	343
+Europe	Spain	2016	9	Tuba	Brass	3676.00	377
+Europe	Spain	2016	9	Sax	Winds	6906.00	441
+Africa	Egypt	2016	9	Piano	Strings	4641.00	540
+Africa	Egypt	2016	9	Violin	Strings	4674.00	435
+Africa	Egypt	2016	9	Cello	Strings	6309.00	213
+Africa	Egypt	2016	9	Guitar	Strings	5533.00	489
+Africa	Egypt	2016	9	Flute	Winds	6622.00	670
+Africa	Egypt	2016	9	Oboe	Winds	6578.00	379
+Africa	Egypt	2016	9	Clarinet	Winds	5050.00	225
+Africa	Egypt	2016	9	Trumpet	Brass	3657.00	258
+Africa	Egypt	2016	9	Trombone	Brass	4854.00	557
+Africa	Egypt	2016	9	Tuba	Brass	6764.00	533
+Africa	Egypt	2016	9	Sax	Winds	6609.00	649
+Africa	Morocco	2016	9	Piano	Strings	6679.00	378
+Africa	Morocco	2016	9	Violin	Strings	2962.00	364
+Africa	Morocco	2016	9	Cello	Strings	2861.00	360
+Africa	Morocco	2016	9	Guitar	Strings	4652.00	636
+Africa	Morocco	2016	9	Flute	Winds	2582.00	204
+Africa	Morocco	2016	9	Oboe	Winds	2773.00	293
+Africa	Morocco	2016	9	Clarinet	Winds	6327.00	671
+Africa	Morocco	2016	9	Trumpet	Brass	2295.00	501
+Africa	Morocco	2016	9	Trombone	Brass	4425.00	568
+Africa	Morocco	2016	9	Tuba	Brass	6821.00	334
+Africa	Morocco	2016	9	Sax	Winds	4947.00	381
+Asia	Japan	2016	9	Piano	Strings	4610.00	471
+Asia	Japan	2016	9	Violin	Strings	2844.00	530
+Asia	Japan	2016	9	Cello	Strings	5839.00	516
+Asia	Japan	2016	9	Guitar	Strings	5336.00	256
+Asia	Japan	2016	9	Flute	Winds	6121.00	441
+Asia	Japan	2016	9	Oboe	Winds	3555.00	625
+Asia	Japan	2016	9	Clarinet	Winds	6266.00	659
+Asia	Japan	2016	9	Trumpet	Brass	5434.00	663
+Asia	Japan	2016	9	Trombone	Brass	3304.00	217
+Asia	Japan	2016	9	Tuba	Brass	4851.00	614
+Asia	Japan	2016	9	Sax	Winds	2743.00	619
+Asia	China	2016	9	Piano	Strings	2013.00	321
+Asia	China	2016	9	Violin	Strings	2091.00	270
+Asia	China	2016	9	Cello	Strings	5104.00	236
+Asia	China	2016	9	Guitar	Strings	5615.00	544
+Asia	China	2016	9	Flute	Winds	3171.00	551
+Asia	China	2016	9	Oboe	Winds	5363.00	485
+Asia	China	2016	9	Clarinet	Winds	5264.00	457
+Asia	China	2016	9	Trumpet	Brass	3427.00	620
+Asia	China	2016	9	Trombone	Brass	5833.00	526
+Asia	China	2016	9	Tuba	Brass	5458.00	411
+Asia	China	2016	9	Sax	Winds	6359.00	218
+Asia	India	2016	9	Piano	Strings	5432.00	320
+Asia	India	2016	9	Violin	Strings	3254.00	517
+Asia	India	2016	9	Cello	Strings	6665.00	511
+Asia	India	2016	9	Guitar	Strings	6994.00	687
+Asia	India	2016	9	Flute	Winds	4082.00	660
+Asia	India	2016	9	Oboe	Winds	2516.00	652
+Asia	India	2016	9	Clarinet	Winds	2727.00	412
+Asia	India	2016	9	Trumpet	Brass	5854.00	509
+Asia	India	2016	9	Trombone	Brass	2534.00	442
+Asia	India	2016	9	Tuba	Brass	2031.00	656
+Asia	India	2016	9	Sax	Winds	4340.00	656
+Asia	Thailand	2016	9	Piano	Strings	4200.00	555
+Asia	Thailand	2016	9	Violin	Strings	2149.00	508
+Asia	Thailand	2016	9	Cello	Strings	4036.00	609
+Asia	Thailand	2016	9	Guitar	Strings	6652.00	448
+Asia	Thailand	2016	9	Flute	Winds	3374.00	673
+Asia	Thailand	2016	9	Oboe	Winds	4989.00	489
+Asia	Thailand	2016	9	Clarinet	Winds	2099.00	689
+Asia	Thailand	2016	9	Trumpet	Brass	6766.00	407
+Asia	Thailand	2016	9	Trombone	Brass	2293.00	438
+Asia	Thailand	2016	9	Tuba	Brass	6320.00	556
+Asia	Thailand	2016	9	Sax	Winds	3616.00	429
+Europe	Italy	2016	9	Piano	Strings	6236.00	317
+Europe	Italy	2016	9	Violin	Strings	4954.00	401
+Europe	Italy	2016	9	Cello	Strings	2112.00	668
+Europe	Italy	2016	9	Guitar	Strings	2308.00	461
+Europe	Italy	2016	9	Flute	Winds	3572.00	376
+Europe	Italy	2016	9	Oboe	Winds	2932.00	339
+Europe	Italy	2016	9	Clarinet	Winds	6536.00	322
+Europe	Italy	2016	9	Trumpet	Brass	5727.00	270
+Europe	Italy	2016	9	Trombone	Brass	6734.00	444
+Europe	Italy	2016	9	Tuba	Brass	2880.00	506
+Europe	Italy	2016	9	Sax	Winds	4469.00	307
+South America	Mexico	2016	9	Piano	Strings	2753.00	443
+South America	Mexico	2016	9	Violin	Strings	5637.00	298
+South America	Mexico	2016	9	Cello	Strings	4028.00	383
+South America	Mexico	2016	9	Guitar	Strings	3989.00	448
+South America	Mexico	2016	9	Flute	Winds	6093.00	417
+South America	Mexico	2016	9	Oboe	Winds	4649.00	377
+South America	Mexico	2016	9	Clarinet	Winds	5686.00	428
+South America	Mexico	2016	9	Trumpet	Brass	3877.00	361
+South America	Mexico	2016	9	Trombone	Brass	4783.00	231
+South America	Mexico	2016	9	Tuba	Brass	5090.00	534
+South America	Mexico	2016	9	Sax	Winds	4741.00	324
+South America	Brazil	2016	9	Piano	Strings	6120.00	202
+South America	Brazil	2016	9	Violin	Strings	6687.00	276
+South America	Brazil	2016	9	Cello	Strings	2735.00	289
+South America	Brazil	2016	9	Guitar	Strings	3158.00	232
+South America	Brazil	2016	9	Flute	Winds	3404.00	412
+South America	Brazil	2016	9	Oboe	Winds	5996.00	545
+South America	Brazil	2016	9	Clarinet	Winds	5310.00	572
+South America	Brazil	2016	9	Trumpet	Brass	5481.00	538
+South America	Brazil	2016	9	Trombone	Brass	6620.00	476
+South America	Brazil	2016	9	Tuba	Brass	5730.00	382
+South America	Brazil	2016	9	Sax	Winds	4996.00	480
+South America	Argentina	2016	9	Piano	Strings	6332.00	607
+South America	Argentina	2016	9	Violin	Strings	2363.00	664
+South America	Argentina	2016	9	Cello	Strings	5239.00	232
+South America	Argentina	2016	9	Guitar	Strings	5926.00	523
+South America	Argentina	2016	9	Flute	Winds	2909.00	527
+South America	Argentina	2016	9	Oboe	Winds	5431.00	288
+South America	Argentina	2016	9	Clarinet	Winds	2697.00	392
+South America	Argentina	2016	9	Trumpet	Brass	6686.00	374
+South America	Argentina	2016	9	Trombone	Brass	2491.00	367
+South America	Argentina	2016	9	Tuba	Brass	6324.00	447
+South America	Argentina	2016	9	Sax	Winds	2609.00	262
+North America	USA	2016	10	Piano	Strings	2817.00	622
+North America	USA	2016	10	Violin	Strings	4934.00	418
+North America	USA	2016	10	Cello	Strings	3745.00	281
+North America	USA	2016	10	Guitar	Strings	3308.00	590
+North America	USA	2016	10	Flute	Winds	4309.00	519
+North America	USA	2016	10	Oboe	Winds	5172.00	452
+North America	USA	2016	10	Clarinet	Winds	2101.00	217
+North America	USA	2016	10	Trumpet	Brass	4455.00	230
+North America	USA	2016	10	Trombone	Brass	3111.00	232
+North America	USA	2016	10	Tuba	Brass	5717.00	463
+North America	USA	2016	10	Sax	Winds	4002.00	222
+North America	Canada	2016	10	Piano	Strings	4538.00	384
+North America	Canada	2016	10	Violin	Strings	5619.00	590
+North America	Canada	2016	10	Cello	Strings	4159.00	426
+North America	Canada	2016	10	Guitar	Strings	2761.00	552
+North America	Canada	2016	10	Flute	Winds	3374.00	357
+North America	Canada	2016	10	Oboe	Winds	5187.00	338
+North America	Canada	2016	10	Clarinet	Winds	5667.00	539
+North America	Canada	2016	10	Trumpet	Brass	4894.00	504
+North America	Canada	2016	10	Trombone	Brass	4608.00	307
+North America	Canada	2016	10	Tuba	Brass	4620.00	384
+North America	Canada	2016	10	Sax	Winds	5488.00	479
+Europe	France	2016	10	Piano	Strings	2620.00	660
+Europe	France	2016	10	Violin	Strings	3213.00	490
+Europe	France	2016	10	Cello	Strings	3676.00	551
+Europe	France	2016	10	Guitar	Strings	6446.00	648
+Europe	France	2016	10	Flute	Winds	6362.00	644
+Europe	France	2016	10	Oboe	Winds	2991.00	517
+Europe	France	2016	10	Clarinet	Winds	6565.00	326
+Europe	France	2016	10	Trumpet	Brass	6443.00	425
+Europe	France	2016	10	Trombone	Brass	2246.00	368
+Europe	France	2016	10	Tuba	Brass	4071.00	598
+Europe	France	2016	10	Sax	Winds	4454.00	609
+Europe	Germany	2016	10	Piano	Strings	5962.00	416
+Europe	Germany	2016	10	Violin	Strings	4599.00	284
+Europe	Germany	2016	10	Cello	Strings	5411.00	297
+Europe	Germany	2016	10	Guitar	Strings	2959.00	465
+Europe	Germany	2016	10	Flute	Winds	5561.00	204
+Europe	Germany	2016	10	Oboe	Winds	3453.00	633
+Europe	Germany	2016	10	Clarinet	Winds	2295.00	278
+Europe	Germany	2016	10	Trumpet	Brass	4652.00	373
+Europe	Germany	2016	10	Trombone	Brass	3377.00	597
+Europe	Germany	2016	10	Tuba	Brass	2045.00	694
+Europe	Germany	2016	10	Sax	Winds	3839.00	556
+Europe	UK	2016	10	Piano	Strings	6556.00	475
+Europe	UK	2016	10	Violin	Strings	2626.00	380
+Europe	UK	2016	10	Cello	Strings	4310.00	535
+Europe	UK	2016	10	Guitar	Strings	5483.00	250
+Europe	UK	2016	10	Flute	Winds	2648.00	328
+Europe	UK	2016	10	Oboe	Winds	4100.00	566
+Europe	UK	2016	10	Clarinet	Winds	2391.00	264
+Europe	UK	2016	10	Trumpet	Brass	6498.00	327
+Europe	UK	2016	10	Trombone	Brass	6358.00	654
+Europe	UK	2016	10	Tuba	Brass	3672.00	643
+Europe	UK	2016	10	Sax	Winds	4132.00	278
+Europe	Spain	2016	10	Piano	Strings	2482.00	360
+Europe	Spain	2016	10	Violin	Strings	3071.00	586
+Europe	Spain	2016	10	Cello	Strings	4792.00	326
+Europe	Spain	2016	10	Guitar	Strings	5580.00	513
+Europe	Spain	2016	10	Flute	Winds	2861.00	269
+Europe	Spain	2016	10	Oboe	Winds	2621.00	426
+Europe	Spain	2016	10	Clarinet	Winds	5987.00	306
+Europe	Spain	2016	10	Trumpet	Brass	3485.00	693
+Europe	Spain	2016	10	Trombone	Brass	3390.00	578
+Europe	Spain	2016	10	Tuba	Brass	6800.00	384
+Europe	Spain	2016	10	Sax	Winds	3362.00	503
+Africa	Egypt	2016	10	Piano	Strings	2802.00	583
+Africa	Egypt	2016	10	Violin	Strings	3651.00	663
+Africa	Egypt	2016	10	Cello	Strings	6849.00	340
+Africa	Egypt	2016	10	Guitar	Strings	3103.00	310
+Africa	Egypt	2016	10	Flute	Winds	4186.00	236
+Africa	Egypt	2016	10	Oboe	Winds	4555.00	501
+Africa	Egypt	2016	10	Clarinet	Winds	5964.00	583
+Africa	Egypt	2016	10	Trumpet	Brass	3972.00	350
+Africa	Egypt	2016	10	Trombone	Brass	6499.00	242
+Africa	Egypt	2016	10	Tuba	Brass	5840.00	419
+Africa	Egypt	2016	10	Sax	Winds	6794.00	569
+Africa	Morocco	2016	10	Piano	Strings	4808.00	219
+Africa	Morocco	2016	10	Violin	Strings	4302.00	485
+Africa	Morocco	2016	10	Cello	Strings	3574.00	348
+Africa	Morocco	2016	10	Guitar	Strings	3941.00	669
+Africa	Morocco	2016	10	Flute	Winds	2030.00	243
+Africa	Morocco	2016	10	Oboe	Winds	5362.00	383
+Africa	Morocco	2016	10	Clarinet	Winds	2651.00	569
+Africa	Morocco	2016	10	Trumpet	Brass	6461.00	414
+Africa	Morocco	2016	10	Trombone	Brass	2135.00	223
+Africa	Morocco	2016	10	Tuba	Brass	3148.00	646
+Africa	Morocco	2016	10	Sax	Winds	4295.00	466
+Asia	Japan	2016	10	Piano	Strings	5362.00	253
+Asia	Japan	2016	10	Violin	Strings	4198.00	685
+Asia	Japan	2016	10	Cello	Strings	4333.00	522
+Asia	Japan	2016	10	Guitar	Strings	3556.00	273
+Asia	Japan	2016	10	Flute	Winds	6104.00	297
+Asia	Japan	2016	10	Oboe	Winds	2370.00	635
+Asia	Japan	2016	10	Clarinet	Winds	6292.00	549
+Asia	Japan	2016	10	Trumpet	Brass	6815.00	326
+Asia	Japan	2016	10	Trombone	Brass	6104.00	572
+Asia	Japan	2016	10	Tuba	Brass	3385.00	303
+Asia	Japan	2016	10	Sax	Winds	4603.00	303
+Asia	China	2016	10	Piano	Strings	4279.00	313
+Asia	China	2016	10	Violin	Strings	2227.00	267
+Asia	China	2016	10	Cello	Strings	4049.00	396
+Asia	China	2016	10	Guitar	Strings	5549.00	649
+Asia	China	2016	10	Flute	Winds	2483.00	522
+Asia	China	2016	10	Oboe	Winds	3296.00	487
+Asia	China	2016	10	Clarinet	Winds	3751.00	348
+Asia	China	2016	10	Trumpet	Brass	3614.00	492
+Asia	China	2016	10	Trombone	Brass	6792.00	596
+Asia	China	2016	10	Tuba	Brass	2584.00	498
+Asia	China	2016	10	Sax	Winds	6956.00	569
+Asia	India	2016	10	Piano	Strings	3986.00	527
+Asia	India	2016	10	Violin	Strings	3896.00	277
+Asia	India	2016	10	Cello	Strings	5318.00	484
+Asia	India	2016	10	Guitar	Strings	5707.00	697
+Asia	India	2016	10	Flute	Winds	5057.00	484
+Asia	India	2016	10	Oboe	Winds	4317.00	658
+Asia	India	2016	10	Clarinet	Winds	6178.00	290
+Asia	India	2016	10	Trumpet	Brass	2126.00	345
+Asia	India	2016	10	Trombone	Brass	5920.00	386
+Asia	India	2016	10	Tuba	Brass	4901.00	435
+Asia	India	2016	10	Sax	Winds	6798.00	675
+Asia	Thailand	2016	10	Piano	Strings	5913.00	353
+Asia	Thailand	2016	10	Violin	Strings	3873.00	295
+Asia	Thailand	2016	10	Cello	Strings	6327.00	655
+Asia	Thailand	2016	10	Guitar	Strings	3264.00	565
+Asia	Thailand	2016	10	Flute	Winds	6845.00	537
+Asia	Thailand	2016	10	Oboe	Winds	6916.00	559
+Asia	Thailand	2016	10	Clarinet	Winds	5597.00	467
+Asia	Thailand	2016	10	Trumpet	Brass	3615.00	297
+Asia	Thailand	2016	10	Trombone	Brass	2279.00	441
+Asia	Thailand	2016	10	Tuba	Brass	6253.00	567
+Asia	Thailand	2016	10	Sax	Winds	3545.00	371
+Europe	Italy	2016	10	Piano	Strings	5345.00	373
+Europe	Italy	2016	10	Violin	Strings	4648.00	585
+Europe	Italy	2016	10	Cello	Strings	3792.00	498
+Europe	Italy	2016	10	Guitar	Strings	2331.00	469
+Europe	Italy	2016	10	Flute	Winds	2899.00	209
+Europe	Italy	2016	10	Oboe	Winds	3965.00	215
+Europe	Italy	2016	10	Clarinet	Winds	4640.00	569
+Europe	Italy	2016	10	Trumpet	Brass	2943.00	214
+Europe	Italy	2016	10	Trombone	Brass	5175.00	387
+Europe	Italy	2016	10	Tuba	Brass	5320.00	554
+Europe	Italy	2016	10	Sax	Winds	4613.00	286
+South America	Mexico	2016	10	Piano	Strings	2700.00	661
+South America	Mexico	2016	10	Violin	Strings	3027.00	400
+South America	Mexico	2016	10	Cello	Strings	6381.00	551
+South America	Mexico	2016	10	Guitar	Strings	2725.00	693
+South America	Mexico	2016	10	Flute	Winds	2745.00	217
+South America	Mexico	2016	10	Oboe	Winds	6759.00	406
+South America	Mexico	2016	10	Clarinet	Winds	4896.00	633
+South America	Mexico	2016	10	Trumpet	Brass	3696.00	626
+South America	Mexico	2016	10	Trombone	Brass	5552.00	390
+South America	Mexico	2016	10	Tuba	Brass	3630.00	479
+South America	Mexico	2016	10	Sax	Winds	6188.00	452
+South America	Brazil	2016	10	Piano	Strings	5448.00	457
+South America	Brazil	2016	10	Violin	Strings	2422.00	539
+South America	Brazil	2016	10	Cello	Strings	5350.00	355
+South America	Brazil	2016	10	Guitar	Strings	5661.00	636
+South America	Brazil	2016	10	Flute	Winds	6608.00	349
+South America	Brazil	2016	10	Oboe	Winds	5985.00	626
+South America	Brazil	2016	10	Clarinet	Winds	5585.00	684
+South America	Brazil	2016	10	Trumpet	Brass	6295.00	543
+South America	Brazil	2016	10	Trombone	Brass	4002.00	502
+South America	Brazil	2016	10	Tuba	Brass	2698.00	463
+South America	Brazil	2016	10	Sax	Winds	2452.00	282
+South America	Argentina	2016	10	Piano	Strings	6150.00	504
+South America	Argentina	2016	10	Violin	Strings	5164.00	409
+South America	Argentina	2016	10	Cello	Strings	5347.00	464
+South America	Argentina	2016	10	Guitar	Strings	6022.00	376
+South America	Argentina	2016	10	Flute	Winds	5863.00	577
+South America	Argentina	2016	10	Oboe	Winds	5828.00	598
+South America	Argentina	2016	10	Clarinet	Winds	5545.00	396
+South America	Argentina	2016	10	Trumpet	Brass	5819.00	360
+South America	Argentina	2016	10	Trombone	Brass	6149.00	299
+South America	Argentina	2016	10	Tuba	Brass	2432.00	387
+South America	Argentina	2016	10	Sax	Winds	6235.00	626
+North America	USA	2016	11	Piano	Strings	3320.00	541
+North America	USA	2016	11	Violin	Strings	5302.00	432
+North America	USA	2016	11	Cello	Strings	4617.00	635
+North America	USA	2016	11	Guitar	Strings	4186.00	373
+North America	USA	2016	11	Flute	Winds	4455.00	389
+North America	USA	2016	11	Oboe	Winds	6693.00	213
+North America	USA	2016	11	Clarinet	Winds	2727.00	489
+North America	USA	2016	11	Trumpet	Brass	2497.00	457
+North America	USA	2016	11	Trombone	Brass	2107.00	290
+North America	USA	2016	11	Tuba	Brass	6272.00	608
+North America	USA	2016	11	Sax	Winds	5310.00	633
+North America	Canada	2016	11	Piano	Strings	3093.00	551
+North America	Canada	2016	11	Violin	Strings	3613.00	292
+North America	Canada	2016	11	Cello	Strings	5067.00	559
+North America	Canada	2016	11	Guitar	Strings	6617.00	543
+North America	Canada	2016	11	Flute	Winds	4230.00	428
+North America	Canada	2016	11	Oboe	Winds	3263.00	359
+North America	Canada	2016	11	Clarinet	Winds	6684.00	233
+North America	Canada	2016	11	Trumpet	Brass	4100.00	233
+North America	Canada	2016	11	Trombone	Brass	2989.00	213
+North America	Canada	2016	11	Tuba	Brass	4798.00	619
+North America	Canada	2016	11	Sax	Winds	4806.00	276
+Europe	France	2016	11	Piano	Strings	5916.00	506
+Europe	France	2016	11	Violin	Strings	2782.00	634
+Europe	France	2016	11	Cello	Strings	3916.00	611
+Europe	France	2016	11	Guitar	Strings	5696.00	559
+Europe	France	2016	11	Flute	Winds	3427.00	203
+Europe	France	2016	11	Oboe	Winds	5847.00	268
+Europe	France	2016	11	Clarinet	Winds	5764.00	542
+Europe	France	2016	11	Trumpet	Brass	5695.00	430
+Europe	France	2016	11	Trombone	Brass	3693.00	456
+Europe	France	2016	11	Tuba	Brass	5751.00	296
+Europe	France	2016	11	Sax	Winds	2445.00	531
+Europe	Germany	2016	11	Piano	Strings	3720.00	463
+Europe	Germany	2016	11	Violin	Strings	6982.00	436
+Europe	Germany	2016	11	Cello	Strings	4890.00	249
+Europe	Germany	2016	11	Guitar	Strings	5514.00	362
+Europe	Germany	2016	11	Flute	Winds	3769.00	209
+Europe	Germany	2016	11	Oboe	Winds	4263.00	600
+Europe	Germany	2016	11	Clarinet	Winds	6985.00	261
+Europe	Germany	2016	11	Trumpet	Brass	3480.00	231
+Europe	Germany	2016	11	Trombone	Brass	2416.00	446
+Europe	Germany	2016	11	Tuba	Brass	4708.00	448
+Europe	Germany	2016	11	Sax	Winds	4589.00	315
+Europe	UK	2016	11	Piano	Strings	4303.00	501
+Europe	UK	2016	11	Violin	Strings	6314.00	429
+Europe	UK	2016	11	Cello	Strings	3193.00	267
+Europe	UK	2016	11	Guitar	Strings	6581.00	498
+Europe	UK	2016	11	Flute	Winds	2898.00	447
+Europe	UK	2016	11	Oboe	Winds	4694.00	637
+Europe	UK	2016	11	Clarinet	Winds	2796.00	384
+Europe	UK	2016	11	Trumpet	Brass	5668.00	247
+Europe	UK	2016	11	Trombone	Brass	3634.00	509
+Europe	UK	2016	11	Tuba	Brass	6865.00	528
+Europe	UK	2016	11	Sax	Winds	2299.00	413
+Europe	Spain	2016	11	Piano	Strings	5886.00	603
+Europe	Spain	2016	11	Violin	Strings	2830.00	541
+Europe	Spain	2016	11	Cello	Strings	4714.00	285
+Europe	Spain	2016	11	Guitar	Strings	3686.00	510
+Europe	Spain	2016	11	Flute	Winds	5099.00	456
+Europe	Spain	2016	11	Oboe	Winds	6261.00	559
+Europe	Spain	2016	11	Clarinet	Winds	5206.00	571
+Europe	Spain	2016	11	Trumpet	Brass	4647.00	617
+Europe	Spain	2016	11	Trombone	Brass	2499.00	297
+Europe	Spain	2016	11	Tuba	Brass	6654.00	497
+Europe	Spain	2016	11	Sax	Winds	2886.00	270
+Africa	Egypt	2016	11	Piano	Strings	6071.00	219
+Africa	Egypt	2016	11	Violin	Strings	6106.00	472
+Africa	Egypt	2016	11	Cello	Strings	6188.00	451
+Africa	Egypt	2016	11	Guitar	Strings	2374.00	247
+Africa	Egypt	2016	11	Flute	Winds	4554.00	585
+Africa	Egypt	2016	11	Oboe	Winds	5267.00	426
+Africa	Egypt	2016	11	Clarinet	Winds	3998.00	429
+Africa	Egypt	2016	11	Trumpet	Brass	5870.00	592
+Africa	Egypt	2016	11	Trombone	Brass	4892.00	528
+Africa	Egypt	2016	11	Tuba	Brass	3160.00	456
+Africa	Egypt	2016	11	Sax	Winds	3669.00	607
+Africa	Morocco	2016	11	Piano	Strings	5652.00	371
+Africa	Morocco	2016	11	Violin	Strings	2587.00	647
+Africa	Morocco	2016	11	Cello	Strings	4288.00	461
+Africa	Morocco	2016	11	Guitar	Strings	5742.00	573
+Africa	Morocco	2016	11	Flute	Winds	6577.00	378
+Africa	Morocco	2016	11	Oboe	Winds	6340.00	580
+Africa	Morocco	2016	11	Clarinet	Winds	6985.00	690
+Africa	Morocco	2016	11	Trumpet	Brass	5209.00	578
+Africa	Morocco	2016	11	Trombone	Brass	3577.00	383
+Africa	Morocco	2016	11	Tuba	Brass	5561.00	257
+Africa	Morocco	2016	11	Sax	Winds	5909.00	496
+Asia	Japan	2016	11	Piano	Strings	4015.00	289
+Asia	Japan	2016	11	Violin	Strings	4166.00	381
+Asia	Japan	2016	11	Cello	Strings	2857.00	643
+Asia	Japan	2016	11	Guitar	Strings	4552.00	583
+Asia	Japan	2016	11	Flute	Winds	3560.00	536
+Asia	Japan	2016	11	Oboe	Winds	5934.00	347
+Asia	Japan	2016	11	Clarinet	Winds	6543.00	496
+Asia	Japan	2016	11	Trumpet	Brass	2729.00	254
+Asia	Japan	2016	11	Trombone	Brass	2195.00	564
+Asia	Japan	2016	11	Tuba	Brass	4048.00	478
+Asia	Japan	2016	11	Sax	Winds	3134.00	610
+Asia	China	2016	11	Piano	Strings	4085.00	667
+Asia	China	2016	11	Violin	Strings	2726.00	280
+Asia	China	2016	11	Cello	Strings	3756.00	451
+Asia	China	2016	11	Guitar	Strings	4850.00	569
+Asia	China	2016	11	Flute	Winds	3594.00	579
+Asia	China	2016	11	Oboe	Winds	4912.00	509
+Asia	China	2016	11	Clarinet	Winds	2883.00	670
+Asia	China	2016	11	Trumpet	Brass	2113.00	497
+Asia	China	2016	11	Trombone	Brass	5056.00	600
+Asia	China	2016	11	Tuba	Brass	2963.00	235
+Asia	China	2016	11	Sax	Winds	4331.00	512
+Asia	India	2016	11	Piano	Strings	6048.00	306
+Asia	India	2016	11	Violin	Strings	3602.00	442
+Asia	India	2016	11	Cello	Strings	3044.00	361
+Asia	India	2016	11	Guitar	Strings	3581.00	584
+Asia	India	2016	11	Flute	Winds	5984.00	447
+Asia	India	2016	11	Oboe	Winds	3189.00	667
+Asia	India	2016	11	Clarinet	Winds	5773.00	449
+Asia	India	2016	11	Trumpet	Brass	6193.00	468
+Asia	India	2016	11	Trombone	Brass	6953.00	661
+Asia	India	2016	11	Tuba	Brass	4102.00	439
+Asia	India	2016	11	Sax	Winds	3720.00	481
+Asia	Thailand	2016	11	Piano	Strings	5303.00	472
+Asia	Thailand	2016	11	Violin	Strings	2189.00	228
+Asia	Thailand	2016	11	Cello	Strings	5455.00	275
+Asia	Thailand	2016	11	Guitar	Strings	3910.00	597
+Asia	Thailand	2016	11	Flute	Winds	4127.00	383
+Asia	Thailand	2016	11	Oboe	Winds	5632.00	217
+Asia	Thailand	2016	11	Clarinet	Winds	2690.00	291
+Asia	Thailand	2016	11	Trumpet	Brass	5320.00	355
+Asia	Thailand	2016	11	Trombone	Brass	3458.00	212
+Asia	Thailand	2016	11	Tuba	Brass	4421.00	233
+Asia	Thailand	2016	11	Sax	Winds	5077.00	457
+Europe	Italy	2016	11	Piano	Strings	6379.00	476
+Europe	Italy	2016	11	Violin	Strings	4167.00	447
+Europe	Italy	2016	11	Cello	Strings	6401.00	676
+Europe	Italy	2016	11	Guitar	Strings	3214.00	343
+Europe	Italy	2016	11	Flute	Winds	2471.00	594
+Europe	Italy	2016	11	Oboe	Winds	4706.00	304
+Europe	Italy	2016	11	Clarinet	Winds	2619.00	479
+Europe	Italy	2016	11	Trumpet	Brass	6528.00	372
+Europe	Italy	2016	11	Trombone	Brass	3433.00	510
+Europe	Italy	2016	11	Tuba	Brass	3601.00	475
+Europe	Italy	2016	11	Sax	Winds	4826.00	369
+South America	Mexico	2016	11	Piano	Strings	5773.00	566
+South America	Mexico	2016	11	Violin	Strings	6054.00	436
+South America	Mexico	2016	11	Cello	Strings	6958.00	377
+South America	Mexico	2016	11	Guitar	Strings	2976.00	609
+South America	Mexico	2016	11	Flute	Winds	5531.00	302
+South America	Mexico	2016	11	Oboe	Winds	6576.00	249
+South America	Mexico	2016	11	Clarinet	Winds	5962.00	406
+South America	Mexico	2016	11	Trumpet	Brass	2725.00	252
+South America	Mexico	2016	11	Trombone	Brass	6713.00	556
+South America	Mexico	2016	11	Tuba	Brass	3196.00	241
+South America	Mexico	2016	11	Sax	Winds	4374.00	682
+South America	Brazil	2016	11	Piano	Strings	2933.00	390
+South America	Brazil	2016	11	Violin	Strings	4057.00	657
+South America	Brazil	2016	11	Cello	Strings	3562.00	367
+South America	Brazil	2016	11	Guitar	Strings	6035.00	304
+South America	Brazil	2016	11	Flute	Winds	3163.00	405
+South America	Brazil	2016	11	Oboe	Winds	3632.00	534
+South America	Brazil	2016	11	Clarinet	Winds	2277.00	496
+South America	Brazil	2016	11	Trumpet	Brass	2364.00	596
+South America	Brazil	2016	11	Trombone	Brass	6181.00	215
+South America	Brazil	2016	11	Tuba	Brass	5331.00	469
+South America	Brazil	2016	11	Sax	Winds	3395.00	662
+South America	Argentina	2016	11	Piano	Strings	4857.00	360
+South America	Argentina	2016	11	Violin	Strings	5456.00	531
+South America	Argentina	2016	11	Cello	Strings	5378.00	344
+South America	Argentina	2016	11	Guitar	Strings	2926.00	312
+South America	Argentina	2016	11	Flute	Winds	2588.00	621
+South America	Argentina	2016	11	Oboe	Winds	2661.00	601
+South America	Argentina	2016	11	Clarinet	Winds	3825.00	396
+South America	Argentina	2016	11	Trumpet	Brass	6330.00	557
+South America	Argentina	2016	11	Trombone	Brass	4711.00	386
+South America	Argentina	2016	11	Tuba	Brass	5172.00	463
+South America	Argentina	2016	11	Sax	Winds	2049.00	459
+North America	USA	2016	12	Piano	Strings	6021.00	424
+North America	USA	2016	12	Violin	Strings	2957.00	384
+North America	USA	2016	12	Cello	Strings	3566.00	692
+North America	USA	2016	12	Guitar	Strings	5260.00	221
+North America	USA	2016	12	Flute	Winds	3869.00	603
+North America	USA	2016	12	Oboe	Winds	4134.00	323
+North America	USA	2016	12	Clarinet	Winds	4126.00	654
+North America	USA	2016	12	Trumpet	Brass	4993.00	473
+North America	USA	2016	12	Trombone	Brass	3692.00	696
+North America	USA	2016	12	Tuba	Brass	2630.00	637
+North America	USA	2016	12	Sax	Winds	6337.00	254
+North America	Canada	2016	12	Piano	Strings	6610.00	354
+North America	Canada	2016	12	Violin	Strings	3766.00	472
+North America	Canada	2016	12	Cello	Strings	2910.00	236
+North America	Canada	2016	12	Guitar	Strings	5386.00	685
+North America	Canada	2016	12	Flute	Winds	6806.00	607
+North America	Canada	2016	12	Oboe	Winds	4318.00	612
+North America	Canada	2016	12	Clarinet	Winds	2018.00	257
+North America	Canada	2016	12	Trumpet	Brass	4664.00	680
+North America	Canada	2016	12	Trombone	Brass	6098.00	326
+North America	Canada	2016	12	Tuba	Brass	5026.00	463
+North America	Canada	2016	12	Sax	Winds	2074.00	313
+Europe	France	2016	12	Piano	Strings	3267.00	260
+Europe	France	2016	12	Violin	Strings	6337.00	207
+Europe	France	2016	12	Cello	Strings	2526.00	285
+Europe	France	2016	12	Guitar	Strings	2780.00	245
+Europe	France	2016	12	Flute	Winds	3490.00	488
+Europe	France	2016	12	Oboe	Winds	3196.00	297
+Europe	France	2016	12	Clarinet	Winds	2903.00	501
+Europe	France	2016	12	Trumpet	Brass	3913.00	370
+Europe	France	2016	12	Trombone	Brass	3335.00	211
+Europe	France	2016	12	Tuba	Brass	3683.00	244
+Europe	France	2016	12	Sax	Winds	4197.00	450
+Europe	Germany	2016	12	Piano	Strings	2828.00	230
+Europe	Germany	2016	12	Violin	Strings	4006.00	320
+Europe	Germany	2016	12	Cello	Strings	3627.00	549
+Europe	Germany	2016	12	Guitar	Strings	3900.00	634
+Europe	Germany	2016	12	Flute	Winds	6960.00	345
+Europe	Germany	2016	12	Oboe	Winds	2408.00	492
+Europe	Germany	2016	12	Clarinet	Winds	5191.00	313
+Europe	Germany	2016	12	Trumpet	Brass	6459.00	469
+Europe	Germany	2016	12	Trombone	Brass	6320.00	462
+Europe	Germany	2016	12	Tuba	Brass	3652.00	444
+Europe	Germany	2016	12	Sax	Winds	4364.00	491
+Europe	UK	2016	12	Piano	Strings	5772.00	536
+Europe	UK	2016	12	Violin	Strings	6000.00	303
+Europe	UK	2016	12	Cello	Strings	3552.00	682
+Europe	UK	2016	12	Guitar	Strings	3461.00	636
+Europe	UK	2016	12	Flute	Winds	2691.00	329
+Europe	UK	2016	12	Oboe	Winds	3668.00	318
+Europe	UK	2016	12	Clarinet	Winds	6122.00	252
+Europe	UK	2016	12	Trumpet	Brass	3628.00	655
+Europe	UK	2016	12	Trombone	Brass	2522.00	506
+Europe	UK	2016	12	Tuba	Brass	2070.00	434
+Europe	UK	2016	12	Sax	Winds	6082.00	488
+Europe	Spain	2016	12	Piano	Strings	2339.00	557
+Europe	Spain	2016	12	Violin	Strings	2522.00	640
+Europe	Spain	2016	12	Cello	Strings	6532.00	302
+Europe	Spain	2016	12	Guitar	Strings	6355.00	263
+Europe	Spain	2016	12	Flute	Winds	5894.00	201
+Europe	Spain	2016	12	Oboe	Winds	4404.00	467
+Europe	Spain	2016	12	Clarinet	Winds	2455.00	551
+Europe	Spain	2016	12	Trumpet	Brass	5566.00	239
+Europe	Spain	2016	12	Trombone	Brass	6922.00	548
+Europe	Spain	2016	12	Tuba	Brass	6831.00	639
+Europe	Spain	2016	12	Sax	Winds	2821.00	539
+Africa	Egypt	2016	12	Piano	Strings	5544.00	618
+Africa	Egypt	2016	12	Violin	Strings	6882.00	410
+Africa	Egypt	2016	12	Cello	Strings	2921.00	469
+Africa	Egypt	2016	12	Guitar	Strings	5688.00	595
+Africa	Egypt	2016	12	Flute	Winds	3820.00	390
+Africa	Egypt	2016	12	Oboe	Winds	3559.00	203
+Africa	Egypt	2016	12	Clarinet	Winds	2746.00	687
+Africa	Egypt	2016	12	Trumpet	Brass	6695.00	281
+Africa	Egypt	2016	12	Trombone	Brass	6129.00	586
+Africa	Egypt	2016	12	Tuba	Brass	3567.00	693
+Africa	Egypt	2016	12	Sax	Winds	5829.00	685
+Africa	Morocco	2016	12	Piano	Strings	6557.00	630
+Africa	Morocco	2016	12	Violin	Strings	3910.00	522
+Africa	Morocco	2016	12	Cello	Strings	4848.00	245
+Africa	Morocco	2016	12	Guitar	Strings	3648.00	270
+Africa	Morocco	2016	12	Flute	Winds	3566.00	406
+Africa	Morocco	2016	12	Oboe	Winds	6803.00	558
+Africa	Morocco	2016	12	Clarinet	Winds	4171.00	580
+Africa	Morocco	2016	12	Trumpet	Brass	2131.00	414
+Africa	Morocco	2016	12	Trombone	Brass	6095.00	346
+Africa	Morocco	2016	12	Tuba	Brass	5152.00	339
+Africa	Morocco	2016	12	Sax	Winds	4635.00	519
+Asia	Japan	2016	12	Piano	Strings	4163.00	501
+Asia	Japan	2016	12	Violin	Strings	5093.00	415
+Asia	Japan	2016	12	Cello	Strings	2506.00	552
+Asia	Japan	2016	12	Guitar	Strings	3166.00	232
+Asia	Japan	2016	12	Flute	Winds	2081.00	580
+Asia	Japan	2016	12	Oboe	Winds	6588.00	556
+Asia	Japan	2016	12	Clarinet	Winds	3114.00	672
+Asia	Japan	2016	12	Trumpet	Brass	3018.00	494
+Asia	Japan	2016	12	Trombone	Brass	5173.00	615
+Asia	Japan	2016	12	Tuba	Brass	4186.00	436
+Asia	Japan	2016	12	Sax	Winds	4430.00	212
+Asia	China	2016	12	Piano	Strings	6275.00	431
+Asia	China	2016	12	Violin	Strings	2182.00	232
+Asia	China	2016	12	Cello	Strings	6571.00	200
+Asia	China	2016	12	Guitar	Strings	4611.00	475
+Asia	China	2016	12	Flute	Winds	6346.00	268
+Asia	China	2016	12	Oboe	Winds	3804.00	473
+Asia	China	2016	12	Clarinet	Winds	5005.00	220
+Asia	China	2016	12	Trumpet	Brass	5017.00	304
+Asia	China	2016	12	Trombone	Brass	5471.00	584
+Asia	China	2016	12	Tuba	Brass	5189.00	543
+Asia	China	2016	12	Sax	Winds	5829.00	343
+Asia	India	2016	12	Piano	Strings	2710.00	329
+Asia	India	2016	12	Violin	Strings	2216.00	560
+Asia	India	2016	12	Cello	Strings	3437.00	562
+Asia	India	2016	12	Guitar	Strings	2961.00	644
+Asia	India	2016	12	Flute	Winds	2957.00	221
+Asia	India	2016	12	Oboe	Winds	3976.00	227
+Asia	India	2016	12	Clarinet	Winds	5105.00	313
+Asia	India	2016	12	Trumpet	Brass	5397.00	674
+Asia	India	2016	12	Trombone	Brass	6727.00	439
+Asia	India	2016	12	Tuba	Brass	4475.00	217
+Asia	India	2016	12	Sax	Winds	3700.00	493
+Asia	Thailand	2016	12	Piano	Strings	4713.00	210
+Asia	Thailand	2016	12	Violin	Strings	3193.00	481
+Asia	Thailand	2016	12	Cello	Strings	6263.00	516
+Asia	Thailand	2016	12	Guitar	Strings	2184.00	465
+Asia	Thailand	2016	12	Flute	Winds	2561.00	508
+Asia	Thailand	2016	12	Oboe	Winds	2229.00	635
+Asia	Thailand	2016	12	Clarinet	Winds	3221.00	209
+Asia	Thailand	2016	12	Trumpet	Brass	5472.00	503
+Asia	Thailand	2016	12	Trombone	Brass	3173.00	546
+Asia	Thailand	2016	12	Tuba	Brass	6915.00	226
+Asia	Thailand	2016	12	Sax	Winds	3055.00	234
+Europe	Italy	2016	12	Piano	Strings	2931.00	548
+Europe	Italy	2016	12	Violin	Strings	5856.00	283
+Europe	Italy	2016	12	Cello	Strings	6032.00	371
+Europe	Italy	2016	12	Guitar	Strings	4802.00	632
+Europe	Italy	2016	12	Flute	Winds	5883.00	453
+Europe	Italy	2016	12	Oboe	Winds	2499.00	403
+Europe	Italy	2016	12	Clarinet	Winds	6566.00	224
+Europe	Italy	2016	12	Trumpet	Brass	6325.00	291
+Europe	Italy	2016	12	Trombone	Brass	5100.00	236
+Europe	Italy	2016	12	Tuba	Brass	5067.00	566
+Europe	Italy	2016	12	Sax	Winds	6203.00	229
+South America	Mexico	2016	12	Piano	Strings	6815.00	206
+South America	Mexico	2016	12	Violin	Strings	3310.00	329
+South America	Mexico	2016	12	Cello	Strings	3103.00	658
+South America	Mexico	2016	12	Guitar	Strings	5835.00	368
+South America	Mexico	2016	12	Flute	Winds	4294.00	219
+South America	Mexico	2016	12	Oboe	Winds	2693.00	328
+South America	Mexico	2016	12	Clarinet	Winds	6228.00	544
+South America	Mexico	2016	12	Trumpet	Brass	2057.00	412
+South America	Mexico	2016	12	Trombone	Brass	3109.00	277
+South America	Mexico	2016	12	Tuba	Brass	2383.00	242
+South America	Mexico	2016	12	Sax	Winds	6643.00	313
+South America	Brazil	2016	12	Piano	Strings	4666.00	674
+South America	Brazil	2016	12	Violin	Strings	6436.00	677
+South America	Brazil	2016	12	Cello	Strings	5965.00	247
+South America	Brazil	2016	12	Guitar	Strings	6626.00	532
+South America	Brazil	2016	12	Flute	Winds	4162.00	252
+South America	Brazil	2016	12	Oboe	Winds	3780.00	316
+South America	Brazil	2016	12	Clarinet	Winds	3980.00	429
+South America	Brazil	2016	12	Trumpet	Brass	6032.00	495
+South America	Brazil	2016	12	Trombone	Brass	4249.00	286
+South America	Brazil	2016	12	Tuba	Brass	3473.00	447
+South America	Brazil	2016	12	Sax	Winds	6420.00	542
+South America	Argentina	2016	12	Piano	Strings	4795.00	471
+South America	Argentina	2016	12	Violin	Strings	4334.00	203
+South America	Argentina	2016	12	Cello	Strings	5177.00	419
+South America	Argentina	2016	12	Guitar	Strings	5231.00	252
+South America	Argentina	2016	12	Flute	Winds	5428.00	456
+South America	Argentina	2016	12	Oboe	Winds	2026.00	471
+South America	Argentina	2016	12	Clarinet	Winds	2379.00	438
+South America	Argentina	2016	12	Trumpet	Brass	6812.00	388
+South America	Argentina	2016	12	Trombone	Brass	5520.00	424
+South America	Argentina	2016	12	Tuba	Brass	5638.00	345
+South America	Argentina	2016	12	Sax	Winds	4896.00	307

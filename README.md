@@ -346,7 +346,7 @@ Output (from tiny dataset):
 
 ## Aggregates Store
 
-The [queries](#Querying) we previously wrote only relied on facts to return a result. Once retreived, facts must be aggregated with the use of [SUM](https://neo4j.com/docs/developer-manual/current/cypher/functions/aggregating/#functions-sum) aggregation function.
+The [queries](#querying) we previously wrote only relied on facts to return a result. Once retreived, facts must be aggregated with the use of [SUM](https://neo4j.com/docs/developer-manual/current/cypher/functions/aggregating/#functions-sum) aggregation function.
 
 This does the job, but is far from OLAP philosophy, where aggregates can be pre-calculated in order to improve query response time.
 
@@ -355,11 +355,11 @@ This does the job, but is far from OLAP philosophy, where aggregates can be pre-
 Aggregates will be stored as nodes, with a label name composed of two parts:
 
 - A prefix `:Aggregate_`.
-- A suffix representing an [aggregate bitmask](#aggregate%20bitmask).
+- A suffix representing an [aggregate bitmask](#aggregate-bitmask).
 
 Example: `(:Aggregate_000000)`.
 
-This concept is called [MOLAP](https://en.wikipedia.org/wiki/Online_analytical_processing#Multidimensional_OLAP_.28MOLAP.29) when applied to a multi-dimensional database store, [ROLAP](https://en.wikipedia.org/wiki/Online_analytical_processing#Relational_(ROLAP)) when applied to a relational one. Let's call it **GOLAP** (for Graph OLAP), as we are using a graph database store (we could also call it **NOLAP** for Neo4j OLAP).
+This concept is called [MOLAP](https://en.wikipedia.org/wiki/Online_analytical_processing#Multidimensional_OLAP_.28MOLAP.29) when applied to a multi-dimensional database store, [ROLAP](https://en.wikipedia.org/wiki/Online_analytical_processing#Relational_OLAP_(ROLAP)) when applied to a relational one. Let's call it **GOLAP** (for Graph OLAP), as we are using a graph database store (we could also call it **NOLAP** for Neo4j OLAP).
 
 ### Aggregate Bitmask
 
@@ -500,6 +500,6 @@ There are many other features that could be explored, such as:
 - [Writeback](https://docs.microsoft.com/en-us/sql/analysis-services/multidimensional-models/set-partition-writeback).
 - Benchmark.
 
-This workshop was an opportunity to challenge (and learn) Neo4j and Cypher in an area it wasn't primarily designed for (even if we are dealing with lots of relationships).
+This workshop was an opportunity to challenge (and learn) **Neo4j** and **Cypher** in an area it wasn't primarily designed for (even if we are dealing with lots of relationships).
 
-Each data engine is designed to address specific purposes, so we can't expect one being as feature-complete as another one for such different fields as OLAP and Graphs.
+Each data engine is designed to address specific purposes, so we can't expect one being as feature-complete as another one for such different fields as **OLAP** and **Graphs**.
